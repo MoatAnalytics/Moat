@@ -1,6 +1,5 @@
 import json
 from datetime import datetime
-import yfinance as.yf if needed, or just yfinance
 import yfinance as yf
 
 # Define the tickers you want to track
