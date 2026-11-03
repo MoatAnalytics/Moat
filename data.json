@@ -1,0 +1,25 @@
+{
+    "last_updated": "2026-11-03 08:52 UTC",
+    "stocks": [
+        {
+            "ticker": "AAPL",
+            "price": 338.32,
+            "change": "-1.83%"
+        },
+        {
+            "ticker": "MSFT",
+            "price": 507.12,
+            "change": "-2.83%"
+        },
+        {
+            "ticker": "GOOGL",
+            "price": 278.99,
+            "change": "-0.30%"
+        },
+        {
+            "ticker": "AMZN",
+            "price": 245.63,
+            "change": "+2.20%"
+        }
+    ]
+}
