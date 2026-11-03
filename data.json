@@ -1,25 +1,33 @@
 {
-    "last_updated": "2026-11-03 08:57 UTC",
+    "last_updated": "2026-11-03 09:05 UTC",
     "stocks": [
         {
             "ticker": "AAPL",
             "trailing_pe": 37.67,
-            "forward_pe": 31.62
+            "forward_pe": 31.62,
+            "total_liabilities": 285508000000.0,
+            "free_cash_flow": 98767000000.0
         },
         {
             "ticker": "MSFT",
-            "trailing_pe": 27.24,
-            "forward_pe": 20.97
+            "trailing_pe": 26.47,
+            "forward_pe": 20.97,
+            "total_liabilities": 315989000000.0,
+            "free_cash_flow": 66987000000.0
         },
         {
             "ticker": "GOOGL",
             "trailing_pe": 14.57,
-            "forward_pe": 18.38
+            "forward_pe": 18.38,
+            "total_liabilities": "N/A",
+            "free_cash_flow": 73266000000.0
         },
         {
             "ticker": "AMZN",
             "trailing_pe": 19.86,
-            "forward_pe": 22.5
+            "forward_pe": 22.5,
+            "total_liabilities": 406977000000.0,
+            "free_cash_flow": 7695000000.0
         }
     ]
 }
