@@ -8,9 +8,11 @@ stocks_data = []
 for ticker_symbol in tickers_list:
     ticker = yf.Ticker(ticker_symbol)
     
-    # 1. Fetch info dictionary for metrics like EV, Dividend Yield, and Officers
+    # 1. Fetch info dictionary for P/E, EV, Dividend Yield, and Officers
     info = ticker.info
     
+    trailing_pe = info.get("trailingPE")
+    forward_pe = info.get("forwardPE")
     enterprise_value = info.get("enterpriseValue")
     dividend_yield = info.get("dividendYield") # Usually a decimal like 0.0055 for 0.55%
     total_cash_fallback = info.get("totalCash")
@@ -60,7 +62,7 @@ for ticker_symbol in tickers_list:
                         short_term_investments = float(val)
                         break
                         
-            # Total Liabilities (from previous step, kept for completeness)
+            # Total Liabilities
             for label in ["Total Liabilities Net Minority Interest", "Total Liabilities"]:
                 if label in bs.index:
                     val = bs.loc[label].iloc[0]
@@ -73,6 +75,8 @@ for ticker_symbol in tickers_list:
     # Append all compiled metrics
     stocks_data.append({
         "ticker": ticker_symbol,
+        "trailing_pe": round(trailing_pe, 2) if trailing_pe is not None else "N/A",
+        "forward_pe": round(forward_pe, 2) if forward_pe is not None else "N/A",
         "ceo": ceo_name,
         "next_earnings": next_earnings,
         "enterprise_value": enterprise_value,
@@ -90,4 +94,4 @@ output_data = {
 with open("data.json", "w") as f:
     json.dump(output_data, f, indent=4)
 
-print("Successfully updated data.json with new financial fields.")
+print("Successfully updated data.json with P/E ratios and all metrics.")
