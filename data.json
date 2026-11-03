@@ -1,33 +1,45 @@
 {
-    "last_updated": "2026-11-03 09:05 UTC",
+    "last_updated": "2026-11-03 09:14 UTC",
     "stocks": [
         {
             "ticker": "AAPL",
-            "trailing_pe": 37.67,
-            "forward_pe": 31.62,
-            "total_liabilities": 285508000000.0,
-            "free_cash_flow": 98767000000.0
+            "ceo": "Mr. John  Ternus",
+            "next_earnings": "2026-11-02",
+            "enterprise_value": 4959447810048,
+            "dividend_yield": 32.0,
+            "cash_and_equivalents": 35934000000.0,
+            "short_term_investments": 18763000000.0,
+            "total_liabilities": 285508000000.0
         },
         {
             "ticker": "MSFT",
-            "trailing_pe": 26.47,
-            "forward_pe": 20.97,
-            "total_liabilities": 315989000000.0,
-            "free_cash_flow": 66987000000.0
+            "ceo": "Mr. Satya  Nadella",
+            "next_earnings": "2027-01-27",
+            "enterprise_value": 3835393736704,
+            "dividend_yield": 77.0,
+            "cash_and_equivalents": 20935000000.0,
+            "short_term_investments": 55716000000.0,
+            "total_liabilities": 315989000000.0
         },
         {
             "ticker": "GOOGL",
-            "trailing_pe": 14.57,
-            "forward_pe": 18.38,
-            "total_liabilities": "N/A",
-            "free_cash_flow": 73266000000.0
+            "ceo": "Mr. Sundar  Pichai",
+            "next_earnings": "2026-10-28",
+            "enterprise_value": 3333159124992,
+            "dividend_yield": 32.0,
+            "cash_and_equivalents": 30708000000.0,
+            "short_term_investments": 96135000000.0,
+            "total_liabilities": "N/A"
         },
         {
             "ticker": "AMZN",
-            "trailing_pe": 19.86,
-            "forward_pe": 22.5,
-            "total_liabilities": 406977000000.0,
-            "free_cash_flow": 7695000000.0
+            "ceo": "Mr. Andrew R. Jassy",
+            "next_earnings": "2026-10-29",
+            "enterprise_value": 2846646075392,
+            "dividend_yield": 0.0,
+            "cash_and_equivalents": 86810000000.0,
+            "short_term_investments": 36219000000.0,
+            "total_liabilities": 406977000000.0
         }
     ]
 }
