@@ -264,7 +264,36 @@ for ticker_symbol in tickers_list:
   except Exception as e:
     print(f"Could not fetch historical prices for {ticker_symbol}: {e}")
 
-  # Append all compiled metrics (forecasted FCF removed)
+  # Append all compiled metrics with clean single-line formatting
   stocks_data.append({
       "ticker": ticker_symbol,
       "trailing_pe": (
+          round(trailing_pe, 2) if trailing_pe is not None else "N/A"
+      ),
+      "forward_pe": round(forward_pe, 2) if forward_pe is not None else "N/A",
+      "ceo": ceo_name,
+      "next_earnings": next_earnings,
+      "enterprise_value": enterprise_value,
+      "dividend_yield": (
+          round(dividend_yield * 100, 2) if dividend_yield is not None else "N/A"
+      ),
+      "cash_and_equivalents": cash_equivalents,
+      "short_term_investments": short_term_investments,
+      "total_liabilities": total_liabilities,
+      "free_cash_flow": free_cash_flow,
+      "last_adj_close": last_adj_close,
+      "adj_close_1m": adj_close_1m,
+      "adj_close_6m": adj_close_6m,
+      "adj_close_12m": adj_close_12m,
+      "adj_close_36m": adj_close_36m,
+  })
+
+output_data = {
+    "last_updated": datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC"),
+    "stocks": stocks_data,
+}
+
+with open("data.json", "w") as f:
+  json.dump(output_data, f, indent=4)
+
+print("Successfully updated data.json with FCF and price histories.")
