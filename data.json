@@ -1,8 +1,10 @@
 {
-    "last_updated": "2026-11-03 09:14 UTC",
+    "last_updated": "2026-11-03 09:17 UTC",
     "stocks": [
         {
             "ticker": "AAPL",
+            "trailing_pe": 37.67,
+            "forward_pe": 31.61,
             "ceo": "Mr. John  Ternus",
             "next_earnings": "2026-11-02",
             "enterprise_value": 4959447810048,
@@ -13,6 +15,8 @@
         },
         {
             "ticker": "MSFT",
+            "trailing_pe": 26.47,
+            "forward_pe": 20.97,
             "ceo": "Mr. Satya  Nadella",
             "next_earnings": "2027-01-27",
             "enterprise_value": 3835393736704,
@@ -23,6 +27,8 @@
         },
         {
             "ticker": "GOOGL",
+            "trailing_pe": 14.57,
+            "forward_pe": 18.38,
             "ceo": "Mr. Sundar  Pichai",
             "next_earnings": "2026-10-28",
             "enterprise_value": 3333159124992,
@@ -33,6 +39,8 @@
         },
         {
             "ticker": "AMZN",
+            "trailing_pe": 19.86,
+            "forward_pe": 22.5,
             "ceo": "Mr. Andrew R. Jassy",
             "next_earnings": "2026-10-29",
             "enterprise_value": 2846646075392,
