@@ -236,7 +236,7 @@ for ticker_symbol in tickers_list:
   except Exception as e:
     print(f"Could not fetch balance sheet for {ticker_symbol}: {e}")
 
-  # 4. Historical Prices (Last Adj Close & 1, 6, 12, 36 months ago)
+  # 4. Historical Prices using auto_adjust=True (the 'Close' column is already adjusted)
   last_adj_close = "N/A"
   adj_close_1m = "N/A"
   adj_close_6m = "N/A"
@@ -244,9 +244,9 @@ for ticker_symbol in tickers_list:
   adj_close_36m = "N/A"
 
   try:
-    hist = ticker.history(period="4y")
-    if not hist.empty and "Adj Close" in hist.columns:
-      last_adj_close = float(hist["Adj Close"].iloc[-1])
+    hist = ticker.history(period="4y", auto_adjust=True)
+    if not hist.empty and "Close" in hist.columns:
+      last_adj_close = float(hist["Close"].iloc[-1])
 
       def get_price_at_date(target_dt):
         target_ts = pd.Timestamp(target_dt)
@@ -254,8 +254,8 @@ for ticker_symbol in tickers_list:
           target_ts = target_ts.tz_localize(hist.index.tz)
         sub_hist = hist[hist.index <= target_ts]
         if not sub_hist.empty:
-          return float(sub_hist["Adj Close"].iloc[-1])
-        return float(hist["Adj Close"].iloc[0])
+          return float(sub_hist["Close"].iloc[-1])
+        return float(hist["Close"].iloc[0])
 
       adj_close_1m = get_price_at_date(date_1m)
       adj_close_6m = get_price_at_date(date_6m)
@@ -264,7 +264,7 @@ for ticker_symbol in tickers_list:
   except Exception as e:
     print(f"Could not fetch historical prices for {ticker_symbol}: {e}")
 
-  # Append all compiled metrics with clean single-line formatting
+  # Append all compiled metrics
   stocks_data.append({
       "ticker": ticker_symbol,
       "trailing_pe": (
