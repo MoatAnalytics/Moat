@@ -1,9 +1,9 @@
-name: Daily Stock Data Update
+name: Weekly Stock Data Update
 
 on:
   schedule:
-    # Runs everyday at 00:00 UTC
-    - cron: '0 0 * * *'
+    # Runs every Saturday at 06:00 UTC
+    - cron: '0 6 * * 6'
   # Allows you to manually trigger it from the Actions tab anytime
   workflow_dispatch:
 
@@ -33,5 +33,5 @@ jobs:
       - name: Commit and push changes if data updated
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Automated daily stock data update [skip ci]"
+          commit_message: "Automated weekly stock data update [skip ci]"
           file_pattern: data.json
