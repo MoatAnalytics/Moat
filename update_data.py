@@ -84,26 +84,7 @@ for ticker_symbol in tickers_list:
         except Exception:
             pass
 
-    # Extract CEO Name from company officers
-    ceo_name = "N/A"
-    for officer in info.get("companyOfficers", []):
-        title = officer.get("title", "").lower()
-        if "ceo" in title or "chief executive officer" in title:
-            ceo_name = officer.get("name", "N/A")
-            break
-
-    # 2. Get Next Earnings Date from calendar
-    next_earnings = "N/A"
-    try:
-        cal = ticker.calendar
-        if cal and "Earnings Date" in cal:
-            earnings_dates = cal["Earnings Date"]
-            if earnings_dates and len(earnings_dates) > 0:
-                next_earnings = str(earnings_dates[0]).split()[0]
-    except Exception as e:
-        print(f"Could not fetch earnings date for {ticker_symbol}: {e}")
-
-    # 3. Get Balance Sheet metrics
+    # 2. Get Balance Sheet metrics
     cash_equivalents = "N/A"
     short_term_investments = "N/A"
     total_liabilities = "N/A"
@@ -148,7 +129,7 @@ for ticker_symbol in tickers_list:
     except Exception as e:
         print(f"Could not fetch balance sheet for {ticker_symbol}: {e}")
 
-    # 4. Historical Prices using auto_adjust=True (the 'Close' column is already adjusted)
+    # 3. Historical Prices using auto_adjust=True (the 'Close' column is already adjusted)
     last_adj_close = "N/A"
     adj_close_1m = "N/A"
     adj_close_6m = "N/A"
@@ -183,8 +164,6 @@ for ticker_symbol in tickers_list:
             round(trailing_pe, 2) if trailing_pe is not None else "N/A"
         ),
         "forward_pe": round(forward_pe, 2) if forward_pe is not None else "N/A",
-        "ceo": ceo_name,
-        "next_earnings": next_earnings,
         "enterprise_value": enterprise_value,
         "dividend_yield": (
             round(dividend_yield * 100, 2) if dividend_yield is not None else "N/A"
@@ -231,5 +210,7 @@ output_data = {
 
 with open("data.json", "w") as f:
     json.dump(output_data, f, indent=4)
+
+print("Successfully updated data.json with new financial metrics.")
 
 print("Successfully updated data.json with new financial metrics.")
