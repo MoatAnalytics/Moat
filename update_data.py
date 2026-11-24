@@ -199,8 +199,7 @@ def fetch_ticker_data(ticker_symbol):
     profit_margins = info.get("profitMargins")
     return_on_assets = info.get("returnOnAssets")
     return_on_equity = info.get("returnOnEquity")
-    website = info.get("website", "N/A")
-
+    
     # Free Cash Flow (Current TTM)
     free_cash_flow = info.get("freeCashflow")
     if free_cash_flow is None:
@@ -332,7 +331,6 @@ def fetch_ticker_data(ticker_symbol):
         "return_on_equity": (
             round(return_on_equity * 100, 2) if return_on_equity is not None else "N/A"
         ),
-        "website": website if website else "N/A",
         "cash_and_equivalents": cash_equivalents,
         "short_term_investments": short_term_investments,
         "total_liabilities": total_liabilities,
