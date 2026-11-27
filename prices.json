@@ -1,0 +1,33 @@
+{
+    "last_updated": "2026-11-27 19:24 UTC",
+    "fx_rates": {
+        "USD/EUR": 0.9144,
+        "GBP/EUR": 1.1971,
+        "DKK/EUR": 0.13368,
+        "NOK/EUR": 0.09322,
+        "SEK/EUR": 0.08861,
+        "CHF/EUR": 1.0931
+    },
+    "stocks": [
+        {
+            "ticker": "NOW",
+            "price": 92.80000305175781
+        },
+        {
+            "ticker": "TDG",
+            "price": 1175.3199462890625
+        },
+        {
+            "ticker": "VEEV",
+            "price": 271.6000061035156
+        },
+        {
+            "ticker": "CRM",
+            "price": 198.2100067138672
+        },
+        {
+            "ticker": "LSS.PA",
+            "price": 20.799999237060547
+        }
+    ]
+}
