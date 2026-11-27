@@ -6,8 +6,7 @@ import threading
 import time
 import yfinance as yf
 
-tickers_list = [
-    "["NOW","TDG","VEEV","CRM","LSS.PA","DUOL","NFLX","CRCT","PYPL","WKL.AS","DASTY","KNEBV.HE","ALPM.PA","FDS","EBAY","CPRT","WMT","NVDA","PTON","ASML","HSIC","IDXX","ADSK","V","NEM","TECN.SW","IFCN.SW","PHIA.AS"
+tickers_list = ["NOW","TDG","VEEV","CRM","LSS.PA","DUOL","NFLX","CRCT","PYPL","WKL.AS","DASTY","KNEBV.HE","ALPM.PA","FDS","EBAY","CPRT","WMT","NVDA","PTON","ASML","HSIC","IDXX","ADSK","V","NEM","TECN.SW","IFCN.SW","PHIA.AS"
                 ,"EKTA-B.ST","NOVO-B.CO","TEL","PLX","KO","AAPL","GIVN.SW","NOK","ASSA-B.ST","MICC","SBUX","XOM","COST","NKE","TSLA","OERL.SW","CDNS","ADYEN.AS","AMS.MC","MCD","BA","ZAL.DE","SHOP","SGPYY","GAW.L","WK","MSCI","TEMN.SW",
                 "PLNT","CSCO","VRSK","DE","DIM.PA","MTX.DE","MC.PA","SSNC","DASH","W","QCOM","BESI.AS","INPOY","DHR","HD","CAT","PG","DEO","UHR.SW","CFR.SW","MGDDY","OR.PA","SY1.DE","2UA.F","RMV.L","RR.L","ITRK.L","COLO-B.CO","BATS.L",
                 "SMIN.L","ROR.L","SPX.L","AV.L","SN.L","AI.PA","DG.PA","RI.PA","SW.PA","CPG.L","EXPN.L","FICO","NEDAP.AS","EDEN.PA","ALC","SMNNY","SHW","JNJ","CRWD","ABNB","FTNT","TEAM","TRI","ISRG","PLTR","CMCSA","ORLY","ARM","LR.PA",
