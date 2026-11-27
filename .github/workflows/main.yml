@@ -11,7 +11,7 @@ permissions:
   contents: write
 
 jobs:
-  update-data:
+  update-prices:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
