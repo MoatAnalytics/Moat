@@ -1,12 +1,12 @@
 {
-    "last_updated": "2026-11-27 19:27 UTC",
+    "last_updated": "2026-11-27 20:03 UTC",
     "fx_rates": {
-        "USD/EUR": 0.9144,
-        "GBP/EUR": 1.1971,
+        "USD/EUR": 0.9143,
+        "GBP/EUR": 1.197,
         "DKK/EUR": 0.13368,
         "NOK/EUR": 0.09323,
         "SEK/EUR": 0.08861,
-        "CHF/EUR": 1.0931
+        "CHF/EUR": 1.093
     },
     "stocks": [
         {
@@ -28,6 +28,6998 @@
         {
             "ticker": "LSS.PA",
             "price": 20.799999237060547
+        },
+        {
+            "ticker": "DUOL",
+            "price": 155.33999633789062
+        },
+        {
+            "ticker": "NFLX",
+            "price": 60.93000030517578
+        },
+        {
+            "ticker": "CRCT",
+            "price": 8.979999542236328
+        },
+        {
+            "ticker": "PYPL",
+            "price": 59.13999938964844
+        },
+        {
+            "ticker": "WKL.AS",
+            "price": 88.66000366210938
+        },
+        {
+            "ticker": "DASTY",
+            "price": 24.809999465942383
+        },
+        {
+            "ticker": "KNEBV.HE",
+            "price": 58.20000076293945
+        },
+        {
+            "ticker": "ALPM.PA",
+            "price": 19.200000762939453
+        },
+        {
+            "ticker": "FDS",
+            "price": 323.1199951171875
+        },
+        {
+            "ticker": "EBAY",
+            "price": 113.33000183105469
+        },
+        {
+            "ticker": "CPRT",
+            "price": 33.20000076293945
+        },
+        {
+            "ticker": "WMT",
+            "price": 133.1300048828125
+        },
+        {
+            "ticker": "NVDA",
+            "price": 150.49000549316406
+        },
+        {
+            "ticker": "PTON",
+            "price": 5.610000133514404
+        },
+        {
+            "ticker": "ASML",
+            "price": 1325.8199462890625
+        },
+        {
+            "ticker": "HSIC",
+            "price": 89.25
+        },
+        {
+            "ticker": "IDXX",
+            "price": 719.22998046875
+        },
+        {
+            "ticker": "ADSK",
+            "price": 251.8800048828125
+        },
+        {
+            "ticker": "V",
+            "price": 429.55999755859375
+        },
+        {
+            "ticker": "NEM",
+            "price": 106.87000274658203
+        },
+        {
+            "ticker": "TECN.SW",
+            "price": 239.39999389648438
+        },
+        {
+            "ticker": "IFCN.SW",
+            "price": 146.0
+        },
+        {
+            "ticker": "PHIA.AS",
+            "price": 27.459999084472656
+        },
+        {
+            "ticker": "EKTA-B.ST",
+            "price": 61.900001525878906
+        },
+        {
+            "ticker": "NOVO-B.CO",
+            "price": 280.6000061035156
+        },
+        {
+            "ticker": "TEL",
+            "price": 217.82000732421875
+        },
+        {
+            "ticker": "PLX",
+            "price": 3.309999942779541
+        },
+        {
+            "ticker": "KO",
+            "price": 97.4000015258789
+        },
+        {
+            "ticker": "AAPL",
+            "price": 358.5400085449219
+        },
+        {
+            "ticker": "GIVN.SW",
+            "price": 4069.0
+        },
+        {
+            "ticker": "NOK",
+            "price": 7.579999923706055
+        },
+        {
+            "ticker": "ASSA-B.ST",
+            "price": 395.70001220703125
+        },
+        {
+            "ticker": "MICC",
+            "price": 19.75
+        },
+        {
+            "ticker": "SBUX",
+            "price": 108.80000305175781
+        },
+        {
+            "ticker": "XOM",
+            "price": 160.17999267578125
+        },
+        {
+            "ticker": "COST",
+            "price": 1097.81005859375
+        },
+        {
+            "ticker": "NKE",
+            "price": 37.31999969482422
+        },
+        {
+            "ticker": "TSLA",
+            "price": 400.0
+        },
+        {
+            "ticker": "OERL.SW",
+            "price": 4.940000057220459
+        },
+        {
+            "ticker": "CDNS",
+            "price": 303.9100036621094
+        },
+        {
+            "ticker": "ADYEN.AS",
+            "price": 882.5999755859375
+        },
+        {
+            "ticker": "AMS.MC",
+            "price": 62.7599983215332
+        },
+        {
+            "ticker": "MCD",
+            "price": 282.6199951171875
+        },
+        {
+            "ticker": "BA",
+            "price": 167.24000549316406
+        },
+        {
+            "ticker": "ZAL.DE",
+            "price": 29.829999923706055
+        },
+        {
+            "ticker": "SHOP",
+            "price": 141.77999877929688
+        },
+        {
+            "ticker": "SGPYY",
+            "price": 61.27000045776367
+        },
+        {
+            "ticker": "GAW.L",
+            "price": 16200.0
+        },
+        {
+            "ticker": "WK",
+            "price": 69.70999908447266
+        },
+        {
+            "ticker": "MSCI",
+            "price": 637.4099731445312
+        },
+        {
+            "ticker": "TEMN.SW",
+            "price": 79.1500015258789
+        },
+        {
+            "ticker": "PLNT",
+            "price": 58.47999954223633
+        },
+        {
+            "ticker": "CSCO",
+            "price": 97.04000091552734
+        },
+        {
+            "ticker": "VRSK",
+            "price": 203.75999450683594
+        },
+        {
+            "ticker": "DE",
+            "price": 654.239990234375
+        },
+        {
+            "ticker": "DIM.PA",
+            "price": 222.39999389648438
+        },
+        {
+            "ticker": "MTX.DE",
+            "price": 353.8999938964844
+        },
+        {
+            "ticker": "MC.PA",
+            "price": 400.95001220703125
+        },
+        {
+            "ticker": "SSNC",
+            "price": 78.62000274658203
+        },
+        {
+            "ticker": "DASH",
+            "price": 167.89999389648438
+        },
+        {
+            "ticker": "W",
+            "price": 98.69999694824219
+        },
+        {
+            "ticker": "QCOM",
+            "price": 179.27000427246094
+        },
+        {
+            "ticker": "BESI.AS",
+            "price": 140.39999389648438
+        },
+        {
+            "ticker": "INPOY",
+            "price": 8.204999923706055
+        },
+        {
+            "ticker": "DHR",
+            "price": 228.88999938964844
+        },
+        {
+            "ticker": "HD",
+            "price": 362.1499938964844
+        },
+        {
+            "ticker": "CAT",
+            "price": 561.739990234375
+        },
+        {
+            "ticker": "PG",
+            "price": 172.86000061035156
+        },
+        {
+            "ticker": "DEO",
+            "price": 101.69999694824219
+        },
+        {
+            "ticker": "UHR.SW",
+            "price": 212.0
+        },
+        {
+            "ticker": "CFR.SW",
+            "price": 174.64999389648438
+        },
+        {
+            "ticker": "MGDDY",
+            "price": 17.040000915527344
+        },
+        {
+            "ticker": "OR.PA",
+            "price": 443.79998779296875
+        },
+        {
+            "ticker": "SY1.DE",
+            "price": 97.5
+        },
+        {
+            "ticker": "2UA.F",
+            "price": 6.449999809265137
+        },
+        {
+            "ticker": "RMV.L",
+            "price": 548.0
+        },
+        {
+            "ticker": "RR.L",
+            "price": 1310.0
+        },
+        {
+            "ticker": "ITRK.L",
+            "price": 5900.0
+        },
+        {
+            "ticker": "COLO-B.CO",
+            "price": 512.2000122070312
+        },
+        {
+            "ticker": "BATS.L",
+            "price": 4599.0
+        },
+        {
+            "ticker": "SMIN.L",
+            "price": 2587.0
+        },
+        {
+            "ticker": "ROR.L",
+            "price": 494.3999938964844
+        },
+        {
+            "ticker": "SPX.L",
+            "price": 7655.0
+        },
+        {
+            "ticker": "AV.L",
+            "price": 747.4000244140625
+        },
+        {
+            "ticker": "SN.L",
+            "price": 1180.5
+        },
+        {
+            "ticker": "AI.PA",
+            "price": 191.9600067138672
+        },
+        {
+            "ticker": "DG.PA",
+            "price": 115.4000015258789
+        },
+        {
+            "ticker": "RI.PA",
+            "price": 69.73999786376953
+        },
+        {
+            "ticker": "SW.PA",
+            "price": 61.70000076293945
+        },
+        {
+            "ticker": "CPG.L",
+            "price": 36.290000915527344
+        },
+        {
+            "ticker": "EXPN.L",
+            "price": 3089.0
+        },
+        {
+            "ticker": "FICO",
+            "price": 708.5700073242188
+        },
+        {
+            "ticker": "NEDAP.AS",
+            "price": 92.0999984741211
+        },
+        {
+            "ticker": "EDEN.PA",
+            "price": 25.209999084472656
+        },
+        {
+            "ticker": "ALC",
+            "price": 78.58999633789062
+        },
+        {
+            "ticker": "SMNNY",
+            "price": 13.140000343322754
+        },
+        {
+            "ticker": "SHW",
+            "price": 363.239990234375
+        },
+        {
+            "ticker": "JNJ",
+            "price": 275.510009765625
+        },
+        {
+            "ticker": "CRWD",
+            "price": 217.1999969482422
+        },
+        {
+            "ticker": "ABNB",
+            "price": 179.16000366210938
+        },
+        {
+            "ticker": "FTNT",
+            "price": 139.47999572753906
+        },
+        {
+            "ticker": "TEAM",
+            "price": 145.9499969482422
+        },
+        {
+            "ticker": "TRI",
+            "price": 111.72000122070312
+        },
+        {
+            "ticker": "ISRG",
+            "price": 430.17999267578125
+        },
+        {
+            "ticker": "PLTR",
+            "price": 172.1699981689453
+        },
+        {
+            "ticker": "CMCSA",
+            "price": 26.079999923706055
+        },
+        {
+            "ticker": "ORLY",
+            "price": 96.27999877929688
+        },
+        {
+            "ticker": "ARM",
+            "price": 171.5500030517578
+        },
+        {
+            "ticker": "LR.PA",
+            "price": 124.5
+        },
+        {
+            "ticker": "GEBN.SW",
+            "price": 591.4000244140625
+        },
+        {
+            "ticker": "KNIN.SW",
+            "price": 221.1999969482422
+        },
+        {
+            "ticker": "HOLN.SW",
+            "price": 76.05999755859375
+        },
+        {
+            "ticker": "LONN.SW",
+            "price": 671.5999755859375
+        },
+        {
+            "ticker": "SIEGY",
+            "price": 138.66000366210938
+        },
+        {
+            "ticker": "WRT1V.HE",
+            "price": 24.15999984741211
+        },
+        {
+            "ticker": "KCR.HE",
+            "price": 28.040000915527344
+        },
+        {
+            "ticker": "STERV.HE",
+            "price": 9.366000175476074
+        },
+        {
+            "ticker": "BVI.PA",
+            "price": 32.02000045776367
+        },
+        {
+            "ticker": "RMS.PA",
+            "price": 1283.5
+        },
+        {
+            "ticker": "BN.PA",
+            "price": 68.77999877929688
+        },
+        {
+            "ticker": "SU.PA",
+            "price": 220.1999969482422
+        },
+        {
+            "ticker": "SPOT",
+            "price": 620.3800048828125
+        },
+        {
+            "ticker": "HNNMY",
+            "price": 3.5399999618530273
+        },
+        {
+            "ticker": "INTU",
+            "price": 271.94000244140625
+        },
+        {
+            "ticker": "GWRE",
+            "price": 150.7100067138672
+        },
+        {
+            "ticker": "MNST",
+            "price": 42.59000015258789
+        },
+        {
+            "ticker": "FAST",
+            "price": 53.40999984741211
+        },
+        {
+            "ticker": "ERNXY",
+            "price": 40.70000076293945
+        },
+        {
+            "ticker": "FUR.AS",
+            "price": 8.140000343322754
+        },
+        {
+            "ticker": "AMG.AS",
+            "price": 20.5
+        },
+        {
+            "ticker": "VPK.AS",
+            "price": 53.0
+        },
+        {
+            "ticker": "ISS.CO",
+            "price": 301.6000061035156
+        },
+        {
+            "ticker": "DEMANT.CO",
+            "price": 338.20001220703125
+        },
+        {
+            "ticker": "MAERSK-B.CO",
+            "price": 19320.0
+        },
+        {
+            "ticker": "LTMC.MI",
+            "price": 26.760000228881836
+        },
+        {
+            "ticker": "REL.L",
+            "price": 3100.0
+        },
+        {
+            "ticker": "HWDN.L",
+            "price": 824.5
+        },
+        {
+            "ticker": "ANET",
+            "price": 174.72999572753906
+        },
+        {
+            "ticker": "APH",
+            "price": 75.13999938964844
+        },
+        {
+            "ticker": "MANH",
+            "price": 253.36000061035156
+        },
+        {
+            "ticker": "IMI1.F",
+            "price": 33.400001525878906
+        },
+        {
+            "ticker": "AFG.OL",
+            "price": 201.0
+        },
+        {
+            "ticker": "MCO",
+            "price": 487.94000244140625
+        },
+        {
+            "ticker": "ECL",
+            "price": 311.6700134277344
+        },
+        {
+            "ticker": "EQIX",
+            "price": 984.8699951171875
+        },
+        {
+            "ticker": "KLAC",
+            "price": 140.86000061035156
+        },
+        {
+            "ticker": "COUR",
+            "price": 3.799999952316284
+        },
+        {
+            "ticker": "AMT",
+            "price": 184.92999267578125
+        },
+        {
+            "ticker": "LOTB.BR",
+            "price": 14100.0
+        },
+        {
+            "ticker": "BFIT.AS",
+            "price": 31.260000228881836
+        },
+        {
+            "ticker": "CRBN.AS",
+            "price": 25.979999542236328
+        },
+        {
+            "ticker": "AMP.MI",
+            "price": 11.8100004196167
+        },
+        {
+            "ticker": "G1A.DE",
+            "price": 69.19999694824219
+        },
+        {
+            "ticker": "DRW3.F",
+            "price": 116.0
+        },
+        {
+            "ticker": "RHM.DE",
+            "price": 791.0999755859375
+        },
+        {
+            "ticker": "UNH",
+            "price": 351.4100036621094
+        },
+        {
+            "ticker": "TRIP",
+            "price": 7.329999923706055
+        },
+        {
+            "ticker": "GIS",
+            "price": 35.849998474121094
+        },
+        {
+            "ticker": "SIKA.SW",
+            "price": 191.6999969482422
+        },
+        {
+            "ticker": "FISV",
+            "price": 61.4900016784668
+        },
+        {
+            "ticker": "SAUHY",
+            "price": 13.069999694824219
+        },
+        {
+            "ticker": "BNTGY",
+            "price": 12.319999694824219
+        },
+        {
+            "ticker": "TMRAY",
+            "price": 8.5
+        },
+        {
+            "ticker": "CAP.PA",
+            "price": 121.75
+        },
+        {
+            "ticker": "POOL",
+            "price": 218.1999969482422
+        },
+        {
+            "ticker": "EVO.ST",
+            "price": 895.4000244140625
+        },
+        {
+            "ticker": "ATCO-A.ST",
+            "price": 186.0
+        },
+        {
+            "ticker": "SDVKY",
+            "price": 32.779998779296875
+        },
+        {
+            "ticker": "HEXA-B.ST",
+            "price": 106.9000015258789
+        },
+        {
+            "ticker": "SAAB-B.ST",
+            "price": 643.0999755859375
+        },
+        {
+            "ticker": "ESSITY-B.ST",
+            "price": 294.1000061035156
+        },
+        {
+            "ticker": "MCK",
+            "price": 1075.6600341796875
+        },
+        {
+            "ticker": "GDDY",
+            "price": 103.06999969482422
+        },
+        {
+            "ticker": "WIX",
+            "price": 65.25
+        },
+        {
+            "ticker": "CL",
+            "price": 99.76000213623047
+        },
+        {
+            "ticker": "ADP",
+            "price": 319.42999267578125
+        },
+        {
+            "ticker": "FTV",
+            "price": 66.02999877929688
+        },
+        {
+            "ticker": "TTEK",
+            "price": 37.880001068115234
+        },
+        {
+            "ticker": "WRLD",
+            "price": 131.08999633789062
+        },
+        {
+            "ticker": "ITW",
+            "price": 284.1400146484375
+        },
+        {
+            "ticker": "MTD",
+            "price": 1680.489990234375
+        },
+        {
+            "ticker": "SGO.PA",
+            "price": 74.54000091552734
+        },
+        {
+            "ticker": "ERF.PA",
+            "price": 85.95999908447266
+        },
+        {
+            "ticker": "STZ",
+            "price": 140.97999572753906
+        },
+        {
+            "ticker": "DG",
+            "price": 138.83999633789062
+        },
+        {
+            "ticker": "SIRI",
+            "price": 33.0099983215332
+        },
+        {
+            "ticker": "CROX",
+            "price": 162.02000427246094
+        },
+        {
+            "ticker": "MNDY",
+            "price": 76.72000122070312
+        },
+        {
+            "ticker": "CALY",
+            "price": 16.209999084472656
+        },
+        {
+            "ticker": "HOG",
+            "price": 35.04999923706055
+        },
+        {
+            "ticker": "AMGN",
+            "price": 474.0799865722656
+        },
+        {
+            "ticker": "GS",
+            "price": 812.8699951171875
+        },
+        {
+            "ticker": "IBM",
+            "price": 248.0800018310547
+        },
+        {
+            "ticker": "RIO",
+            "price": 76.47000122070312
+        },
+        {
+            "ticker": "GSK",
+            "price": 50.95000076293945
+        },
+        {
+            "ticker": "NG",
+            "price": 5.349999904632568
+        },
+        {
+            "ticker": "LLOY.L",
+            "price": 97.0999984741211
+        },
+        {
+            "ticker": "NWG",
+            "price": 15.680000305175781
+        },
+        {
+            "ticker": "APP",
+            "price": 399.2099914550781
+        },
+        {
+            "ticker": "WDC",
+            "price": 292.1099853515625
+        },
+        {
+            "ticker": "BKR",
+            "price": 47.470001220703125
+        },
+        {
+            "ticker": "ALNY",
+            "price": 162.6999969482422
+        },
+        {
+            "ticker": "TTWO",
+            "price": 230.22000122070312
+        },
+        {
+            "ticker": "AVGO",
+            "price": 312.3399963378906
+        },
+        {
+            "ticker": "AXON",
+            "price": 363.4800109863281
+        },
+        {
+            "ticker": "CTAS",
+            "price": 228.5800018310547
+        },
+        {
+            "ticker": "LRCX",
+            "price": 192.69000244140625
+        },
+        {
+            "ticker": "ADI",
+            "price": 346.0
+        },
+        {
+            "ticker": "AMD",
+            "price": 424.5400085449219
+        },
+        {
+            "ticker": "BKNG",
+            "price": 150.38999938964844
+        },
+        {
+            "ticker": "AEP",
+            "price": 127.66999816894531
+        },
+        {
+            "ticker": "ADBE",
+            "price": 234.7899932861328
+        },
+        {
+            "ticker": "GILD",
+            "price": 177.0
+        },
+        {
+            "ticker": "HON",
+            "price": 228.47999572753906
+        },
+        {
+            "ticker": "CSGP",
+            "price": 34.91999816894531
+        },
+        {
+            "ticker": "INSM",
+            "price": 170.44000244140625
+        },
+        {
+            "ticker": "VZ",
+            "price": 47.540000915527344
+        },
+        {
+            "ticker": "AXP",
+            "price": 316.3999938964844
+        },
+        {
+            "ticker": "AMZN",
+            "price": 254.1199951171875
+        },
+        {
+            "ticker": "DIS",
+            "price": 127.23999786376953
+        },
+        {
+            "ticker": "CVX",
+            "price": 212.4499969482422
+        },
+        {
+            "ticker": "JPM",
+            "price": 322.9599914550781
+        },
+        {
+            "ticker": "TRV",
+            "price": 407.2900085449219
+        },
+        {
+            "ticker": "MRK",
+            "price": 141.32000732421875
+        },
+        {
+            "ticker": "MMM",
+            "price": 191.22999572753906
+        },
+        {
+            "ticker": "CON.DE",
+            "price": 70.69999694824219
+        },
+        {
+            "ticker": "ADDYY",
+            "price": 94.9000015258789
+        },
+        {
+            "ticker": "BEI.DE",
+            "price": 82.73999786376953
+        },
+        {
+            "ticker": "EONGY",
+            "price": 20.709999084472656
+        },
+        {
+            "ticker": "ALV.DE",
+            "price": 463.3999938964844
+        },
+        {
+            "ticker": "RAND.AS",
+            "price": 42.40999984741211
+        },
+        {
+            "ticker": "MT",
+            "price": 59.439998626708984
+        },
+        {
+            "ticker": "IMCD.AS",
+            "price": 106.6500015258789
+        },
+        {
+            "ticker": "AEG",
+            "price": 8.579999923706055
+        },
+        {
+            "ticker": "AKZA.AS",
+            "price": 63.08000183105469
+        },
+        {
+            "ticker": "INGA.AS",
+            "price": 27.354999542236328
+        },
+        {
+            "ticker": "NN.AS",
+            "price": 79.54000091552734
+        },
+        {
+            "ticker": "KPN.AS",
+            "price": 4.386000156402588
+        },
+        {
+            "ticker": "AD.AS",
+            "price": 35.9900016784668
+        },
+        {
+            "ticker": "AALB.AS",
+            "price": 39.720001220703125
+        },
+        {
+            "ticker": "ABN.AS",
+            "price": 38.47999954223633
+        },
+        {
+            "ticker": "ASRNL.AS",
+            "price": 78.80000305175781
+        },
+        {
+            "ticker": "HEIA.AS",
+            "price": 85.0999984741211
+        },
+        {
+            "ticker": "LKFT.AS",
+            "price": 32.91999816894531
+        },
+        {
+            "ticker": "ULVR.L",
+            "price": 5040.0
+        },
+        {
+            "ticker": "URW.PA",
+            "price": 93.18000030517578
+        },
+        {
+            "ticker": "BNP.PA",
+            "price": 91.91999816894531
+        },
+        {
+            "ticker": "KER.PA",
+            "price": 178.89999389648438
+        },
+        {
+            "ticker": "ORA.PA",
+            "price": 15.4350004196167
+        },
+        {
+            "ticker": "TEP.PA",
+            "price": 68.73999786376953
+        },
+        {
+            "ticker": "STM",
+            "price": 41.0099983215332
+        },
+        {
+            "ticker": "CA.PA",
+            "price": 13.84000015258789
+        },
+        {
+            "ticker": "RNO.PA",
+            "price": 29.299999237060547
+        },
+        {
+            "ticker": "PUB.PA",
+            "price": 102.6500015258789
+        },
+        {
+            "ticker": "GLE.PA",
+            "price": 64.37000274658203
+        },
+        {
+            "ticker": "CHTR",
+            "price": 153.8699951171875
+        },
+        {
+            "ticker": "CTSH",
+            "price": 63.41999816894531
+        },
+        {
+            "ticker": "DDOG",
+            "price": 165.75
+        },
+        {
+            "ticker": "GEHC",
+            "price": 84.62000274658203
+        },
+        {
+            "ticker": "KHC",
+            "price": 26.489999771118164
+        },
+        {
+            "ticker": "WDAY",
+            "price": 181.92999267578125
+        },
+        {
+            "ticker": "XEL",
+            "price": 81.47000122070312
+        },
+        {
+            "ticker": "MU",
+            "price": 646.9500122070312
+        },
+        {
+            "ticker": "MELI",
+            "price": 1532.9200439453125
+        },
+        {
+            "ticker": "MDLZ",
+            "price": 67.7699966430664
+        },
+        {
+            "ticker": "ODFL",
+            "price": 176.00999450683594
+        },
+        {
+            "ticker": "PANW",
+            "price": 366.760009765625
+        },
+        {
+            "ticker": "PCAR",
+            "price": 109.97000122070312
+        },
+        {
+            "ticker": "MPWR",
+            "price": 1265.02001953125
+        },
+        {
+            "ticker": "BAS.DE",
+            "price": 50.540000915527344
+        },
+        {
+            "ticker": "TXN",
+            "price": 281.8500061035156
+        },
+        {
+            "ticker": "ZS",
+            "price": 239.49000549316406
+        },
+        {
+            "ticker": "NXPI",
+            "price": 253.19000244140625
+        },
+        {
+            "ticker": "SMMNY",
+            "price": 23.780000686645508
+        },
+        {
+            "ticker": "BMW.DE",
+            "price": 58.65999984741211
+        },
+        {
+            "ticker": "G24.DE",
+            "price": 84.5999984741211
+        },
+        {
+            "ticker": "SAP",
+            "price": 213.64999389648438
+        },
+        {
+            "ticker": "DB1.DE",
+            "price": 319.79998779296875
+        },
+        {
+            "ticker": "DHLGY",
+            "price": 31.489999771118164
+        },
+        {
+            "ticker": "BAYRY",
+            "price": 14.520000457763672
+        },
+        {
+            "ticker": "RWE.DE",
+            "price": 57.2599983215332
+        },
+        {
+            "ticker": "FME.DE",
+            "price": 38.27000045776367
+        },
+        {
+            "ticker": "VNA.DE",
+            "price": 17.790000915527344
+        },
+        {
+            "ticker": "FRE.DE",
+            "price": 53.099998474121094
+        },
+        {
+            "ticker": "HEN3.DE",
+            "price": 88.58000183105469
+        },
+        {
+            "ticker": "PAH3.DE",
+            "price": 24.280000686645508
+        },
+        {
+            "ticker": "SIE.DE",
+            "price": 252.60000610351562
+        },
+        {
+            "ticker": "AIR.DE",
+            "price": 195.77999877929688
+        },
+        {
+            "ticker": "DTE.DE",
+            "price": 27.31999969482422
+        },
+        {
+            "ticker": "VOW3.DE",
+            "price": 68.5999984741211
+        },
+        {
+            "ticker": "MUV2.DE",
+            "price": 585.4000244140625
+        },
+        {
+            "ticker": "MBG.DE",
+            "price": 38.95000076293945
+        },
+        {
+            "ticker": "CARL-B.CO",
+            "price": 988.5999755859375
+        },
+        {
+            "ticker": "NKT.CO",
+            "price": 760.0
+        },
+        {
+            "ticker": "VWS.CO",
+            "price": 170.4499969482422
+        },
+        {
+            "ticker": "PNDORA.CO",
+            "price": 955.2000122070312
+        },
+        {
+            "ticker": "RBREW.CO",
+            "price": 484.6000061035156
+        },
+        {
+            "ticker": "AMBU-B.CO",
+            "price": 93.44999694824219
+        },
+        {
+            "ticker": "ORSTED.CO",
+            "price": 140.35000610351562
+        },
+        {
+            "ticker": "BVNRY",
+            "price": 12.260000228881836
+        },
+        {
+            "ticker": "FLS",
+            "price": 83.63999938964844
+        },
+        {
+            "ticker": "GN.CO",
+            "price": 121.0
+        },
+        {
+            "ticker": "ROCK-B.CO",
+            "price": 174.10000610351562
+        },
+        {
+            "ticker": "JYSK.CO",
+            "price": 1071.0
+        },
+        {
+            "ticker": "GMAB",
+            "price": 57.75
+        },
+        {
+            "ticker": "DSV.CO",
+            "price": 1427.0
+        },
+        {
+            "ticker": "DANSKE.CO",
+            "price": 361.70001220703125
+        },
+        {
+            "ticker": "TM2.F",
+            "price": 95.44999694824219
+        },
+        {
+            "ticker": "TRYG.CO",
+            "price": 167.89999389648438
+        },
+        {
+            "ticker": "ZEAL.CO",
+            "price": 235.60000610351562
+        },
+        {
+            "ticker": "HO.PA",
+            "price": 239.1999969482422
+        },
+        {
+            "ticker": "ACA.PA",
+            "price": 15.619999885559082
+        },
+        {
+            "ticker": "BOUYY",
+            "price": 9.40999984741211
+        },
+        {
+            "ticker": "SAFRY",
+            "price": 83.72000122070312
+        },
+        {
+            "ticker": "CS.PA",
+            "price": 45.86000061035156
+        },
+        {
+            "ticker": "STLA",
+            "price": 3.890000104904175
+        },
+        {
+            "ticker": "TTE",
+            "price": 85.83000183105469
+        },
+        {
+            "ticker": "AIR.PA",
+            "price": 195.72000122070312
+        },
+        {
+            "ticker": "SAN.PA",
+            "price": 97.6500015258789
+        },
+        {
+            "ticker": "ENGI.PA",
+            "price": 25.020000457763672
+        },
+        {
+            "ticker": "AC.PA",
+            "price": 48.689998626708984
+        },
+        {
+            "ticker": "VIA.PA",
+            "price": "N/A"
+        },
+        {
+            "ticker": "EL.PA",
+            "price": 173.10000610351562
+        },
+        {
+            "ticker": "INTC",
+            "price": 57.400001525878906
+        },
+        {
+            "ticker": "MCHP",
+            "price": 60.369998931884766
+        },
+        {
+            "ticker": "MRVL",
+            "price": 140.5399932861328
+        },
+        {
+            "ticker": "MSFT",
+            "price": 492.8500061035156
+        },
+        {
+            "ticker": "STX",
+            "price": 509.6600036621094
+        },
+        {
+            "ticker": "ROST",
+            "price": 224.2100067138672
+        },
+        {
+            "ticker": "TMUS",
+            "price": 170.19000244140625
+        },
+        {
+            "ticker": "PDD",
+            "price": 88.43000030517578
+        },
+        {
+            "ticker": "PAYX",
+            "price": 118.12999725341797
+        },
+        {
+            "ticker": "CEG",
+            "price": 238.10000610351562
+        },
+        {
+            "ticker": "CSX",
+            "price": 51.380001068115234
+        },
+        {
+            "ticker": "CCEP",
+            "price": 118.05999755859375
+        },
+        {
+            "ticker": "FANG",
+            "price": 182.25999450683594
+        },
+        {
+            "ticker": "FER",
+            "price": 60.25
+        },
+        {
+            "ticker": "ROP",
+            "price": 484.45001220703125
+        },
+        {
+            "ticker": "REGN",
+            "price": 992.1400146484375
+        },
+        {
+            "ticker": "PEP",
+            "price": 144.60000610351562
+        },
+        {
+            "ticker": "LIN",
+            "price": 532.6099853515625
+        },
+        {
+            "ticker": "KDP",
+            "price": 35.45000076293945
+        },
+        {
+            "ticker": "HNR1.DE",
+            "price": 295.20001220703125
+        },
+        {
+            "ticker": "QIA.F",
+            "price": 44.78499984741211
+        },
+        {
+            "ticker": "HEI",
+            "price": 342.8900146484375
+        },
+        {
+            "ticker": "CBK",
+            "price": 32.630001068115234
+        },
+        {
+            "ticker": "DTG",
+            "price": 14.3100004196167
+        },
+        {
+            "ticker": "SNPS",
+            "price": 420.07000732421875
+        },
+        {
+            "ticker": "VRTX",
+            "price": 534.5700073242188
+        },
+        {
+            "ticker": "DXCM",
+            "price": 85.1500015258789
+        },
+        {
+            "ticker": "EXC",
+            "price": 46.65999984741211
+        },
+        {
+            "ticker": "MAR",
+            "price": 421.010009765625
+        },
+        {
+            "ticker": "META",
+            "price": 628.9600219726562
+        },
+        {
+            "ticker": "MSTR",
+            "price": 81.62000274658203
+        },
+        {
+            "ticker": "GOOGL",
+            "price": 274.9599914550781
+        },
+        {
+            "ticker": "LOGI",
+            "price": 103.45999908447266
+        },
+        {
+            "ticker": "SREN.SW",
+            "price": 154.25
+        },
+        {
+            "ticker": "SOON.SW",
+            "price": 287.20001220703125
+        },
+        {
+            "ticker": "SCMN.SW",
+            "price": 705.0
+        },
+        {
+            "ticker": "SMWH.L",
+            "price": 363.0
+        },
+        {
+            "ticker": "AMAT",
+            "price": 322.0400085449219
+        },
+        {
+            "ticker": "UBS",
+            "price": 45.63999938964844
+        },
+        {
+            "ticker": "NESN.SW",
+            "price": 87.33999633789062
+        },
+        {
+            "ticker": "NOVN.SW",
+            "price": 128.5
+        },
+        {
+            "ticker": "ROP.SW",
+            "price": 404.1000061035156
+        },
+        {
+            "ticker": "SLHN.SW",
+            "price": 972.5999755859375
+        },
+        {
+            "ticker": "ZURN.SW",
+            "price": 649.7999877929688
+        },
+        {
+            "ticker": "ABBN.SW",
+            "price": 65.73999786376953
+        },
+        {
+            "ticker": "SKF-B.ST",
+            "price": 263.5
+        },
+        {
+            "ticker": "ALFA.ST",
+            "price": 536.0
+        },
+        {
+            "ticker": "EQT",
+            "price": 51.86000061035156
+        },
+        {
+            "ticker": "EPI-A.ST",
+            "price": 234.60000610351562
+        },
+        {
+            "ticker": "ADDT-B.ST",
+            "price": 331.6000061035156
+        },
+        {
+            "ticker": "BOL.ST",
+            "price": 479.20001220703125
+        },
+        {
+            "ticker": "ERIC-B.ST",
+            "price": 106.9000015258789
+        },
+        {
+            "ticker": "TELIA.ST",
+            "price": 50.97999954223633
+        },
+        {
+            "ticker": "SKA-B.ST",
+            "price": 306.29998779296875
+        },
+        {
+            "ticker": "TEL2-B.ST",
+            "price": 163.0500030517578
+        },
+        {
+            "ticker": "TSCO.L",
+            "price": 544.4000244140625
+        },
+        {
+            "ticker": "WEIR.L",
+            "price": 2174.0
+        },
+        {
+            "ticker": "RTO",
+            "price": 25.299999237060547
+        },
+        {
+            "ticker": "CRDA.L",
+            "price": 3861.0
+        },
+        {
+            "ticker": "BRBY.L",
+            "price": 1184.0
+        },
+        {
+            "ticker": "HLMA.L",
+            "price": 3444.0
+        },
+        {
+            "ticker": "GLEN.L",
+            "price": 465.8500061035156
+        },
+        {
+            "ticker": "BNZL.L",
+            "price": 2958.0
+        },
+        {
+            "ticker": "PSON.L",
+            "price": 1323.0
+        },
+        {
+            "ticker": "SGRO.L",
+            "price": 918.5999755859375
+        },
+        {
+            "ticker": "SCA-B.ST",
+            "price": 114.5
+        },
+        {
+            "ticker": "AZN",
+            "price": 183.69000244140625
+        },
+        {
+            "ticker": "SAND.ST",
+            "price": 334.8999938964844
+        },
+        {
+            "ticker": "VOLCAR-B.ST",
+            "price": 10.28499984741211
+        },
+        {
+            "ticker": "BAB.L",
+            "price": 1091.0
+        },
+        {
+            "ticker": "BA.L",
+            "price": 1929.0
+        },
+        {
+            "ticker": "BP",
+            "price": 43.25
+        },
+        {
+            "ticker": "ANTO.L",
+            "price": 2707.0
+        },
+        {
+            "ticker": "SBRY.L",
+            "price": 340.79998779296875
+        },
+        {
+            "ticker": "SHEL",
+            "price": 95.47000122070312
+        },
+        {
+            "ticker": "KGF.L",
+            "price": 375.29998779296875
+        },
+        {
+            "ticker": "HLN",
+            "price": 9.460000038146973
+        },
+        {
+            "ticker": "FRES.L",
+            "price": 2295.0
+        },
+        {
+            "ticker": "INF.L",
+            "price": 857.0
+        },
+        {
+            "ticker": "JD",
+            "price": 27.350000381469727
+        },
+        {
+            "ticker": "HSX.L",
+            "price": 1968.0
+        },
+        {
+            "ticker": "MNDI.L",
+            "price": 799.2000122070312
+        },
+        {
+            "ticker": "WTB.L",
+            "price": 2777.0
+        },
+        {
+            "ticker": "VOD",
+            "price": 13.600000381469727
+        },
+        {
+            "ticker": "STAN.L",
+            "price": 1951.0
+        },
+        {
+            "ticker": "MKS.L",
+            "price": 436.6000061035156
+        },
+        {
+            "ticker": "RKT.L",
+            "price": 5768.0
+        },
+        {
+            "ticker": "RACE",
+            "price": 414.1099853515625
+        },
+        {
+            "ticker": "DPLM.L",
+            "price": 6670.0
+        },
+        {
+            "ticker": "CNA.L",
+            "price": 148.8000030517578
+        },
+        {
+            "ticker": "BT-A.L",
+            "price": 203.8000030517578
+        },
+        {
+            "ticker": "DCC.L",
+            "price": 6475.0
+        },
+        {
+            "ticker": "ENT.L",
+            "price": 477.20001220703125
+        },
+        {
+            "ticker": "PSN",
+            "price": 53.86000061035156
+        },
+        {
+            "ticker": "ITX.MC",
+            "price": 58.63999938964844
+        },
+        {
+            "ticker": "AENA.MC",
+            "price": 28.5
+        },
+        {
+            "ticker": "GRF.MC",
+            "price": 11.550000190734863
+        },
+        {
+            "ticker": "IDR.MC",
+            "price": 57.380001068115234
+        },
+        {
+            "ticker": "MAP.MC",
+            "price": 4.053999900817871
+        },
+        {
+            "ticker": "CLNX.MC",
+            "price": 25.600000381469727
+        },
+        {
+            "ticker": "REP.MC",
+            "price": 27.799999237060547
+        },
+        {
+            "ticker": "LOG.MC",
+            "price": 39.060001373291016
+        },
+        {
+            "ticker": "FDR.MC",
+            "price": 18.790000915527344
+        },
+        {
+            "ticker": "SLR.MC",
+            "price": 14.265000343322754
+        },
+        {
+            "ticker": "MRO.L",
+            "price": 499.0
+        },
+        {
+            "ticker": "SVT.L",
+            "price": 3268.0
+        },
+        {
+            "ticker": "CTEC.L",
+            "price": 275.6000061035156
+        },
+        {
+            "ticker": "ABF.L",
+            "price": 2017.0
+        },
+        {
+            "ticker": "IAG.L",
+            "price": 444.79998779296875
+        },
+        {
+            "ticker": "IMB.L",
+            "price": 3495.0
+        },
+        {
+            "ticker": "NXT.L",
+            "price": 15865.0
+        },
+        {
+            "ticker": "SDLF.L",
+            "price": 895.5
+        },
+        {
+            "ticker": "SSE.L",
+            "price": 2645.0
+        },
+        {
+            "ticker": "UU.L",
+            "price": 1576.0
+        },
+        {
+            "ticker": "BBOX.L",
+            "price": 144.39999389648438
+        },
+        {
+            "ticker": "STJ.L",
+            "price": 1080.0
+        },
+        {
+            "ticker": "AAL.L",
+            "price": 3333.0
+        },
+        {
+            "ticker": "ADM.L",
+            "price": 3926.0
+        },
+        {
+            "ticker": "AAF.L",
+            "price": 277.79998779296875
+        },
+        {
+            "ticker": "BARC.L",
+            "price": 411.04998779296875
+        },
+        {
+            "ticker": "BLND.L",
+            "price": 440.6000061035156
+        },
+        {
+            "ticker": "CCH.L",
+            "price": 4302.0
+        },
+        {
+            "ticker": "BKG.L",
+            "price": 3498.0
+        },
+        {
+            "ticker": "LGEN.L",
+            "price": 299.1000061035156
+        },
+        {
+            "ticker": "SLB",
+            "price": 49.619998931884766
+        },
+        {
+            "ticker": "SNA",
+            "price": 362.9800109863281
+        },
+        {
+            "ticker": "VLTO",
+            "price": 120.05999755859375
+        },
+        {
+            "ticker": "APD",
+            "price": 319.0899963378906
+        },
+        {
+            "ticker": "BBY",
+            "price": 104.18000030517578
+        },
+        {
+            "ticker": "GEN",
+            "price": 30.469999313354492
+        },
+        {
+            "ticker": "GRMN",
+            "price": 287.4599914550781
+        },
+        {
+            "ticker": "GD",
+            "price": 363.3599853515625
+        },
+        {
+            "ticker": "IBKR",
+            "price": 78.2300033569336
+        },
+        {
+            "ticker": "WM",
+            "price": 246.49000549316406
+        },
+        {
+            "ticker": "VMC",
+            "price": 295.04998779296875
+        },
+        {
+            "ticker": "WST",
+            "price": 366.1700134277344
+        },
+        {
+            "ticker": "SYY",
+            "price": 83.30999755859375
+        },
+        {
+            "ticker": "TPR",
+            "price": 128.02000427246094
+        },
+        {
+            "ticker": "SJM",
+            "price": 126.86000061035156
+        },
+        {
+            "ticker": "SWK",
+            "price": 110.91999816894531
+        },
+        {
+            "ticker": "RL",
+            "price": 399.8800048828125
+        },
+        {
+            "ticker": "RVTY",
+            "price": 151.27000427246094
+        },
+        {
+            "ticker": "RSG",
+            "price": 253.25999450683594
+        },
+        {
+            "ticker": "ALLE",
+            "price": 191.77000427246094
+        },
+        {
+            "ticker": "ALGN",
+            "price": 165.97000122070312
+        },
+        {
+            "ticker": "AFL",
+            "price": 127.44000244140625
+        },
+        {
+            "ticker": "AZO",
+            "price": 3399.2099609375
+        },
+        {
+            "ticker": "AVY",
+            "price": 192.25999450683594
+        },
+        {
+            "ticker": "APTV",
+            "price": 38.09000015258789
+        },
+        {
+            "ticker": "BALL",
+            "price": 67.05000305175781
+        },
+        {
+            "ticker": "AKAM",
+            "price": 90.62000274658203
+        },
+        {
+            "ticker": "ALB",
+            "price": 82.93000030517578
+        },
+        {
+            "ticker": "ACN",
+            "price": 241.83999633789062
+        },
+        {
+            "ticker": "BLDR",
+            "price": 61.93000030517578
+        },
+        {
+            "ticker": "BG",
+            "price": 91.4000015258789
+        },
+        {
+            "ticker": "BF-B",
+            "price": 29.280000686645508
+        },
+        {
+            "ticker": "UBER",
+            "price": 66.62999725341797
+        },
+        {
+            "ticker": "TJX",
+            "price": 143.77000427246094
+        },
+        {
+            "ticker": "TSN",
+            "price": 63.20000076293945
+        },
+        {
+            "ticker": "TRMB",
+            "price": 55.779998779296875
+        },
+        {
+            "ticker": "TT",
+            "price": 406.1300048828125
+        },
+        {
+            "ticker": "TYL",
+            "price": 422.4700012207031
+        },
+        {
+            "ticker": "TSCO",
+            "price": 40.0099983215332
+        },
+        {
+            "ticker": "TGT",
+            "price": 171.97000122070312
+        },
+        {
+            "ticker": "ULTA",
+            "price": 642.5
+        },
+        {
+            "ticker": "SWKS",
+            "price": 86.66000366210938
+        },
+        {
+            "ticker": "STE",
+            "price": 261.20001220703125
+        },
+        {
+            "ticker": "SW",
+            "price": 43.59000015258789
+        },
+        {
+            "ticker": "STLD",
+            "price": 222.00999450683594
+        },
+        {
+            "ticker": "LUV",
+            "price": 47.209999084472656
+        },
+        {
+            "ticker": "STT",
+            "price": 164.69000244140625
+        },
+        {
+            "ticker": "TER",
+            "price": 222.9600067138672
+        },
+        {
+            "ticker": "TXT",
+            "price": 82.12999725341797
+        },
+        {
+            "ticker": "TMO",
+            "price": 683.0399780273438
+        },
+        {
+            "ticker": "UNP",
+            "price": 297.8900146484375
+        },
+        {
+            "ticker": "URI",
+            "price": 1042.3499755859375
+        },
+        {
+            "ticker": "WAT",
+            "price": 460.8800048828125
+        },
+        {
+            "ticker": "WAB",
+            "price": 296.1499938964844
+        },
+        {
+            "ticker": "GWW",
+            "price": 1431.8699951171875
+        },
+        {
+            "ticker": "SOLV",
+            "price": 87.30000305175781
+        },
+        {
+            "ticker": "PM",
+            "price": 187.8000030517578
+        },
+        {
+            "ticker": "PPG",
+            "price": 124.87999725341797
+        },
+        {
+            "ticker": "RMD",
+            "price": 242.9199981689453
+        },
+        {
+            "ticker": "RTX",
+            "price": 198.47999572753906
+        },
+        {
+            "ticker": "DGX",
+            "price": 263.2900085449219
+        },
+        {
+            "ticker": "ROL",
+            "price": 38.369998931884766
+        },
+        {
+            "ticker": "PWR",
+            "price": 580.5999755859375
+        },
+        {
+            "ticker": "PHM",
+            "price": 134.49000549316406
+        },
+        {
+            "ticker": "VRSN",
+            "price": 320.20001220703125
+        },
+        {
+            "ticker": "VTRS",
+            "price": 20.200000762939453
+        },
+        {
+            "ticker": "YUM",
+            "price": 166.97000122070312
+        },
+        {
+            "ticker": "ZBH",
+            "price": 110.43000030517578
+        },
+        {
+            "ticker": "ZBRA",
+            "price": 331.5
+        },
+        {
+            "ticker": "WYNN",
+            "price": 89.38999938964844
+        },
+        {
+            "ticker": "ZTS",
+            "price": 82.44999694824219
+        },
+        {
+            "ticker": "XYL",
+            "price": 95.86000061035156
+        },
+        {
+            "ticker": "WSM",
+            "price": 212.86000061035156
+        },
+        {
+            "ticker": "WMB",
+            "price": 67.12999725341797
+        },
+        {
+            "ticker": "TKO",
+            "price": 193.6999969482422
+        },
+        {
+            "ticker": "TTD",
+            "price": 14.4399995803833
+        },
+        {
+            "ticker": "TDY",
+            "price": 645.510009765625
+        },
+        {
+            "ticker": "TRGP",
+            "price": 280.54998779296875
+        },
+        {
+            "ticker": "SMCI",
+            "price": 23.760000228881836
+        },
+        {
+            "ticker": "SYK",
+            "price": 334.2699890136719
+        },
+        {
+            "ticker": "NDAQ",
+            "price": 109.13999938964844
+        },
+        {
+            "ticker": "NUE",
+            "price": 256.75
+        },
+        {
+            "ticker": "NVR",
+            "price": 6034.41015625
+        },
+        {
+            "ticker": "NTAP",
+            "price": 172.6699981689453
+        },
+        {
+            "ticker": "SPG.F",
+            "price": 23.25
+        },
+        {
+            "ticker": "NDSN",
+            "price": 324.1700134277344
+        },
+        {
+            "ticker": "ZTF.L",
+            "price": 435.0
+        },
+        {
+            "ticker": "ANA.MC",
+            "price": 187.3000030517578
+        },
+        {
+            "ticker": "ACX.MC",
+            "price": 14.880000114440918
+        },
+        {
+            "ticker": "PUIG.MC",
+            "price": 21.020000457763672
+        },
+        {
+            "ticker": "ELE.MC",
+            "price": 43.7400016784668
+        },
+        {
+            "ticker": "NTGY.MC",
+            "price": 30.3799991607666
+        },
+        {
+            "ticker": "ROVI.MC",
+            "price": 63.599998474121094
+        },
+        {
+            "ticker": "NCLH",
+            "price": 16.969999313354492
+        },
+        {
+            "ticker": "NOC",
+            "price": 561.469970703125
+        },
+        {
+            "ticker": "NWSA",
+            "price": 26.299999237060547
+        },
+        {
+            "ticker": "MOS",
+            "price": 21.040000915527344
+        },
+        {
+            "ticker": "MSI",
+            "price": 544.8300170898438
+        },
+        {
+            "ticker": "TAP",
+            "price": 40.400001525878906
+        },
+        {
+            "ticker": "MOH",
+            "price": 202.8800048828125
+        },
+        {
+            "ticker": "OMC",
+            "price": 92.2300033569336
+        },
+        {
+            "ticker": "OKE",
+            "price": 87.73999786376953
+        },
+        {
+            "ticker": "OTIS",
+            "price": 79.5
+        },
+        {
+            "ticker": "NRG",
+            "price": 93.83000183105469
+        },
+        {
+            "ticker": "PH",
+            "price": 912.3599853515625
+        },
+        {
+            "ticker": "NSC",
+            "price": 327.3999938964844
+        },
+        {
+            "ticker": "ON",
+            "price": 66.23999786376953
+        },
+        {
+            "ticker": "ORCL",
+            "price": 107.12999725341797
+        },
+        {
+            "ticker": "PAYC",
+            "price": 245.5500030517578
+        },
+        {
+            "ticker": "PKG",
+            "price": 251.22999572753906
+        },
+        {
+            "ticker": "PPL",
+            "price": 35.369998931884766
+        },
+        {
+            "ticker": "RCL",
+            "price": 315.3500061035156
+        },
+        {
+            "ticker": "SPGI",
+            "price": 461.239990234375
+        },
+        {
+            "ticker": "UPS",
+            "price": 112.62999725341797
+        },
+        {
+            "ticker": "UAL",
+            "price": 108.08999633789062
+        },
+        {
+            "ticker": "WTW",
+            "price": 359.8500061035156
+        },
+        {
+            "ticker": "TROW",
+            "price": 106.56999969482422
+        },
+        {
+            "ticker": "ROK",
+            "price": 394.25
+        },
+        {
+            "ticker": "Q",
+            "price": 111.0
+        },
+        {
+            "ticker": "PNR",
+            "price": 73.41000366210938
+        },
+        {
+            "ticker": "NTRS",
+            "price": 169.35000610351562
+        },
+        {
+            "ticker": "LULU",
+            "price": 108.01000213623047
+        },
+        {
+            "ticker": "LOW",
+            "price": 236.4600067138672
+        },
+        {
+            "ticker": "LMT",
+            "price": 605.8800048828125
+        },
+        {
+            "ticker": "MTCH",
+            "price": 42.56999969482422
+        },
+        {
+            "ticker": "MDT",
+            "price": 95.41000366210938
+        },
+        {
+            "ticker": "MGM",
+            "price": 35.290000915527344
+        },
+        {
+            "ticker": "MKC",
+            "price": 49.65999984741211
+        },
+        {
+            "ticker": "MAS",
+            "price": 87.2300033569336
+        },
+        {
+            "ticker": "MRSH",
+            "price": 218.0399932861328
+        },
+        {
+            "ticker": "MLM",
+            "price": 542.5700073242188
+        },
+        {
+            "ticker": "LYB",
+            "price": 57.77000045776367
+        },
+        {
+            "ticker": "MA",
+            "price": 666.9600219726562
+        },
+        {
+            "ticker": "AOS",
+            "price": 67.4000015258789
+        },
+        {
+            "ticker": "ABT",
+            "price": 108.06999969482422
+        },
+        {
+            "ticker": "MO",
+            "price": 76.88999938964844
+        },
+        {
+            "ticker": "A",
+            "price": 180.0500030517578
+        },
+        {
+            "ticker": "AMCR",
+            "price": 45.560001373291016
+        },
+        {
+            "ticker": "ADM",
+            "price": 67.81999969482422
+        },
+        {
+            "ticker": "AME",
+            "price": 230.35000610351562
+        },
+        {
+            "ticker": "BR",
+            "price": 186.7899932861328
+        },
+        {
+            "ticker": "BSX",
+            "price": 45.25
+        },
+        {
+            "ticker": "WIE.VI",
+            "price": 15.4399995803833
+        },
+        {
+            "ticker": "VOE.VI",
+            "price": 33.779998779296875
+        },
+        {
+            "ticker": "ADRZY",
+            "price": 16.799999237060547
+        },
+        {
+            "ticker": "ATS.VI",
+            "price": 105.0
+        },
+        {
+            "ticker": "LNZ.VI",
+            "price": 9.529999732971191
+        },
+        {
+            "ticker": "BG.VI",
+            "price": 152.89999389648438
+        },
+        {
+            "ticker": "PAL.VI",
+            "price": 26.899999618530273
+        },
+        {
+            "ticker": "DIE.DE",
+            "price": 8.25
+        },
+        {
+            "ticker": "MELE.BR",
+            "price": 55.70000076293945
+        },
+        {
+            "ticker": "SOLB.BR",
+            "price": 23.5
+        },
+        {
+            "ticker": "UMI.BR",
+            "price": 16.469999313354492
+        },
+        {
+            "ticker": "ACKB.BR",
+            "price": 256.0
+        },
+        {
+            "ticker": "FFARM.AS",
+            "price": 5.699999809265137
+        },
+        {
+            "ticker": "LIGHT.AS",
+            "price": 14.65999984741211
+        },
+        {
+            "ticker": "ACOMO.AS",
+            "price": 23.600000381469727
+        },
+        {
+            "ticker": "TFF.PA",
+            "price": 12.699999809265137
+        },
+        {
+            "ticker": "PL8.F",
+            "price": 4.199999809265137
+        },
+        {
+            "ticker": "SIGCY",
+            "price": 18.989999771118164
+        },
+        {
+            "ticker": "BUCN.SW",
+            "price": 327.5
+        },
+        {
+            "ticker": "SUN.SW",
+            "price": 182.60000610351562
+        },
+        {
+            "ticker": "IP.MI",
+            "price": 38.599998474121094
+        },
+        {
+            "ticker": "BZU.MI",
+            "price": 45.119998931884766
+        },
+        {
+            "ticker": "NEXPF",
+            "price": 4.739999771118164
+        },
+        {
+            "ticker": "PRY.MI",
+            "price": 101.1500015258789
+        },
+        {
+            "ticker": "GET.PA",
+            "price": 20.31999969482422
+        },
+        {
+            "ticker": "TYRES.HE",
+            "price": 13.079999923706055
+        },
+        {
+            "ticker": "LXS.DE",
+            "price": 11.319999694824219
+        },
+        {
+            "ticker": "DIA.MI",
+            "price": 76.86000061035156
+        },
+        {
+            "ticker": "SESG.PA",
+            "price": 4.501999855041504
+        },
+        {
+            "ticker": "FUTR.L",
+            "price": 265.20001220703125
+        },
+        {
+            "ticker": "WOSG.L",
+            "price": 749.0
+        },
+        {
+            "ticker": "RUI.PA",
+            "price": 35.619998931884766
+        },
+        {
+            "ticker": "HUH1V.HE",
+            "price": 27.3799991607666
+        },
+        {
+            "ticker": "KGX.DE",
+            "price": 31.040000915527344
+        },
+        {
+            "ticker": "AZE.BR",
+            "price": 12.050000190734863
+        },
+        {
+            "ticker": "LISN.SW",
+            "price": 85200.0
+        },
+        {
+            "ticker": "YOU.L",
+            "price": 265.3999938964844
+        },
+        {
+            "ticker": "EVS.BR",
+            "price": 15.34000015258789
+        },
+        {
+            "ticker": "ITP.PA",
+            "price": 36.279998779296875
+        },
+        {
+            "ticker": "INRN.SW",
+            "price": 1416.0
+        },
+        {
+            "ticker": "NOEJ.DE",
+            "price": 11.699999809265137
+        },
+        {
+            "ticker": "KTN.F",
+            "price": 18.1299991607666
+        },
+        {
+            "ticker": "FIE.F",
+            "price": 43.349998474121094
+        },
+        {
+            "ticker": "FPE3.DE",
+            "price": 42.7400016784668
+        },
+        {
+            "ticker": "JUN3.DE",
+            "price": 20.420000076293945
+        },
+        {
+            "ticker": "NLM.F",
+            "price": 107.0
+        },
+        {
+            "ticker": "BC8.F",
+            "price": 33.68000030517578
+        },
+        {
+            "ticker": "KENDR.AS",
+            "price": 17.65999984741211
+        },
+        {
+            "ticker": "VID.MC",
+            "price": 93.5
+        },
+        {
+            "ticker": "LHA.DE",
+            "price": 8.758000373840332
+        },
+        {
+            "ticker": "MONC.MI",
+            "price": 40.369998931884766
+        },
+        {
+            "ticker": "DUFRY",
+            "price": 5.760000228881836
+        },
+        {
+            "ticker": "TUB.BR",
+            "price": 238.1999969482422
+        },
+        {
+            "ticker": "GALD.SW",
+            "price": 183.4499969482422
+        },
+        {
+            "ticker": "DHER.DE",
+            "price": 37.02000045776367
+        },
+        {
+            "ticker": "BMXMF",
+            "price": 100.66000366210938
+        },
+        {
+            "ticker": "BARN.SW",
+            "price": 1245.0
+        },
+        {
+            "ticker": "SALRY",
+            "price": 14.699999809265137
+        },
+        {
+            "ticker": "CPR.MI",
+            "price": 6.814000129699707
+        },
+        {
+            "ticker": "HAG.DE",
+            "price": 83.22000122070312
+        },
+        {
+            "ticker": "HOT.DE",
+            "price": 341.3999938964844
+        },
+        {
+            "ticker": "INDT.ST",
+            "price": 269.6000061035156
+        },
+        {
+            "ticker": "HOLM-B.ST",
+            "price": 297.20001220703125
+        },
+        {
+            "ticker": "PRX.AS",
+            "price": 31.325000762939453
+        },
+        {
+            "ticker": "SECU-B.ST",
+            "price": 163.1999969482422
+        },
+        {
+            "ticker": "TREL-B.ST",
+            "price": 473.79998779296875
+        },
+        {
+            "ticker": "UCB",
+            "price": 36.099998474121094
+        },
+        {
+            "ticker": "ACSAF",
+            "price": 99.4000015258789
+        },
+        {
+            "ticker": "ASM.AS",
+            "price": 618.5999755859375
+        },
+        {
+            "ticker": "BEAN.SW",
+            "price": 752.0
+        },
+        {
+            "ticker": "EVD.DE",
+            "price": 64.25
+        },
+        {
+            "ticker": "EQNR",
+            "price": 38.75
+        },
+        {
+            "ticker": "EVK.DE",
+            "price": 18.40999984741211
+        },
+        {
+            "ticker": "LDO.MI",
+            "price": 52.18000030517578
+        },
+        {
+            "ticker": "KGSPY",
+            "price": 98.06999969482422
+        },
+        {
+            "ticker": "KBX.F",
+            "price": 94.30000305175781
+        },
+        {
+            "ticker": "KBGGY",
+            "price": 18.15999984741211
+        },
+        {
+            "ticker": "ORKLY",
+            "price": 10.819999694824219
+        },
+        {
+            "ticker": "SGSN.SW",
+            "price": 102.5999984741211
+        },
+        {
+            "ticker": "UMG.AS",
+            "price": 17.440000534057617
+        },
+        {
+            "ticker": "UPM.HE",
+            "price": 21.90999984741211
+        },
+        {
+            "ticker": "VACN.SW",
+            "price": 486.5
+        },
+        {
+            "ticker": "YARIY",
+            "price": 19.600000381469727
+        },
+        {
+            "ticker": "SCHP.SW",
+            "price": 298.3999938964844
+        },
+        {
+            "ticker": "SRT4.F",
+            "price": 44.79999923706055
+        },
+        {
+            "ticker": "RYAAY",
+            "price": 57.439998626708984
+        },
+        {
+            "ticker": "TEN.MI",
+            "price": 25.93000030517578
+        },
+        {
+            "ticker": "VSURE.ST",
+            "price": 10.914999961853027
+        },
+        {
+            "ticker": "WISE.L",
+            "price": 900.0
+        },
+        {
+            "ticker": "TIT.MI",
+            "price": 5.431000232696533
+        },
+        {
+            "ticker": "TEF.MC",
+            "price": 3.444000005722046
+        },
+        {
+            "ticker": "SUBCY",
+            "price": 35.290000915527344
+        },
+        {
+            "ticker": "RXL.PA",
+            "price": 33.20000076293945
+        },
+        {
+            "ticker": "SAGA-B.ST",
+            "price": 193.89999389648438
+        },
+        {
+            "ticker": "PINE",
+            "price": 16.899999618530273
+        },
+        {
+            "ticker": "RED.MC",
+            "price": 17.049999237060547
+        },
+        {
+            "ticker": "NBIS",
+            "price": 89.45999908447266
+        },
+        {
+            "ticker": "NESTE.HE",
+            "price": 24.290000915527344
+        },
+        {
+            "ticker": "NHYDY",
+            "price": 6.869999885559082
+        },
+        {
+            "ticker": "KYGA.L",
+            "price": 105.0
+        },
+        {
+            "ticker": "KESKOB.HE",
+            "price": 25.280000686645508
+        },
+        {
+            "ticker": "JRONY",
+            "price": 43.779998779296875
+        },
+        {
+            "ticker": "ENX.PA",
+            "price": 171.89999389648438
+        },
+        {
+            "ticker": "AKRBF",
+            "price": 30.790000915527344
+        },
+        {
+            "ticker": "AER",
+            "price": 171.1999969482422
+        },
+        {
+            "ticker": "AIBG.L",
+            "price": 916.0
+        },
+        {
+            "ticker": "AGS.BR",
+            "price": 76.75
+        },
+        {
+            "ticker": "HSBA.L",
+            "price": 1268.800048828125
+        },
+        {
+            "ticker": "HBAN.SW",
+            "price": 221.60000610351562
+        },
+        {
+            "ticker": "ENEL.MI",
+            "price": 9.657999992370605
+        },
+        {
+            "ticker": "DSFIR.AS",
+            "price": 106.94999694824219
+        },
+        {
+            "ticker": "EBO.DE",
+            "price": 108.9000015258789
+        },
+        {
+            "ticker": "AYV.PA",
+            "price": 10.079999923706055
+        },
+        {
+            "ticker": "BAMI.MI",
+            "price": 13.854999542236328
+        },
+        {
+            "ticker": "BMED.MI",
+            "price": 21.360000610351562
+        },
+        {
+            "ticker": "BMPS.MI",
+            "price": 10.791999816894531
+        },
+        {
+            "ticker": "ALO.PA",
+            "price": 8.86400032043457
+        },
+        {
+            "ticker": "ABI.BR",
+            "price": 72.05999755859375
+        },
+        {
+            "ticker": "AMUN.PA",
+            "price": 93.9000015258789
+        },
+        {
+            "ticker": "DBK.DE",
+            "price": 30.3799991607666
+        },
+        {
+            "ticker": "METSO.HE",
+            "price": 15.050000190734863
+        },
+        {
+            "ticker": "NIBE-B.ST",
+            "price": 45.709999084472656
+        },
+        {
+            "ticker": "NDA-FI.HE",
+            "price": 16.21500015258789
+        },
+        {
+            "ticker": "ORNBV.HE",
+            "price": 101.0999984741211
+        },
+        {
+            "ticker": "OMV.VI",
+            "price": 67.9000015258789
+        },
+        {
+            "ticker": "PST.MI",
+            "price": 24.350000381469727
+        },
+        {
+            "ticker": "PRU",
+            "price": 122.06999969482422
+        },
+        {
+            "ticker": "RAA.F",
+            "price": 627.0
+        },
+        {
+            "ticker": "RBI.VI",
+            "price": 58.349998474121094
+        },
+        {
+            "ticker": "REC.MI",
+            "price": 52.75
+        },
+        {
+            "ticker": "SAMPO.HE",
+            "price": 10.15999984741211
+        },
+        {
+            "ticker": "SDZ.SW",
+            "price": 79.27999877929688
+        },
+        {
+            "ticker": "SHB-A.ST",
+            "price": 161.64999389648438
+        },
+        {
+            "ticker": "ADP.PA",
+            "price": 118.19999694824219
+        },
+        {
+            "ticker": "ARGX",
+            "price": 994.5399780273438
+        },
+        {
+            "ticker": "BTRW.L",
+            "price": 310.79998779296875
+        },
+        {
+            "ticker": "BKT.MC",
+            "price": 13.960000038146973
+        },
+        {
+            "ticker": "SAN",
+            "price": 11.90999984741211
+        },
+        {
+            "ticker": "BBVA.MC",
+            "price": 22.25
+        },
+        {
+            "ticker": "SAB.MC",
+            "price": 3.561000108718872
+        },
+        {
+            "ticker": "BEIJ-B.ST",
+            "price": 164.5
+        },
+        {
+            "ticker": "BCVN.SW",
+            "price": 136.3000030517578
+        },
+        {
+            "ticker": "BKW.SW",
+            "price": 123.5
+        },
+        {
+            "ticker": "BCP.LS",
+            "price": 1.065999984741211
+        },
+        {
+            "ticker": "BIRG.IR",
+            "price": 18.43000030517578
+        },
+        {
+            "ticker": "CABK.MC",
+            "price": 11.520000457763672
+        },
+        {
+            "ticker": "BPE.MI",
+            "price": 12.196000099182129
+        },
+        {
+            "ticker": "AM",
+            "price": 20.719999313354492
+        },
+        {
+            "ticker": "FGR.PA",
+            "price": 108.75
+        },
+        {
+            "ticker": "ELISA.HE",
+            "price": 32.20000076293945
+        },
+        {
+            "ticker": "EDP.LS",
+            "price": 4.961999893188477
+        },
+        {
+            "ticker": "EMSN.SW",
+            "price": 814.5
+        },
+        {
+            "ticker": "EDV.L",
+            "price": 3424.0
+        },
+        {
+            "ticker": "ELI.BR",
+            "price": 132.1999969482422
+        },
+        {
+            "ticker": "DNBBY",
+            "price": 33.439998626708984
+        },
+        {
+            "ticker": "EDPR.LS",
+            "price": 13.260000228881836
+        },
+        {
+            "ticker": "ENI.MI",
+            "price": 24.485000610351562
+        },
+        {
+            "ticker": "FBK",
+            "price": 52.81999969482422
+        },
+        {
+            "ticker": "EXO.AS",
+            "price": 74.5999984741211
+        },
+        {
+            "ticker": "BALD-B.ST",
+            "price": 54.880001068115234
+        },
+        {
+            "ticker": "GALP.LS",
+            "price": 18.110000610351562
+        },
+        {
+            "ticker": "FORTUM.HE",
+            "price": 21.920000076293945
+        },
+        {
+            "ticker": "G",
+            "price": 45.060001373291016
+        },
+        {
+            "ticker": "GECFF",
+            "price": 70.87999725341797
+        },
+        {
+            "ticker": "XGJ.F",
+            "price": 26.479999542236328
+        },
+        {
+            "ticker": "GBLB.BR",
+            "price": 81.44999694824219
+        },
+        {
+            "ticker": "IBE.MC",
+            "price": 23.209999084472656
+        },
+        {
+            "ticker": "IPSEY",
+            "price": 45.2400016784668
+        },
+        {
+            "ticker": "IG.MI",
+            "price": 9.192000389099121
+        },
+        {
+            "ticker": "INDU-C.ST",
+            "price": 525.7999877929688
+        },
+        {
+            "ticker": "SEB-A.ST",
+            "price": 214.39999389648438
+        },
+        {
+            "ticker": "SRG.MI",
+            "price": 6.168000221252441
+        },
+        {
+            "ticker": "SOF.BR",
+            "price": 279.3999938964844
+        },
+        {
+            "ticker": "SWED-A.ST",
+            "price": 410.1000061035156
+        },
+        {
+            "ticker": "TLX.F",
+            "price": 133.6999969482422
+        },
+        {
+            "ticker": "SYENS.BR",
+            "price": 76.44999694824219
+        },
+        {
+            "ticker": "UNI.MI",
+            "price": 25.6299991607666
+        },
+        {
+            "ticker": "UCG.MI",
+            "price": 77.0
+        },
+        {
+            "ticker": "TRN",
+            "price": 30.6200008392334
+        },
+        {
+            "ticker": "SPSN.SW",
+            "price": 134.10000610351562
+        },
+        {
+            "ticker": "SOBI.ST",
+            "price": 507.0
+        },
+        {
+            "ticker": "LIFCO-B.ST",
+            "price": 287.3999938964844
+        },
+        {
+            "ticker": "LUND-B.ST",
+            "price": 587.0
+        },
+        {
+            "ticker": "LAND",
+            "price": 6.650000095367432
+        },
+        {
+            "ticker": "LEG.F",
+            "price": 53.79999923706055
+        },
+        {
+            "ticker": "MNG.L",
+            "price": 317.29998779296875
+        },
+        {
+            "ticker": "ISP.MI",
+            "price": 5.706999778747559
+        },
+        {
+            "ticker": "LATO-B.ST",
+            "price": 223.1999969482422
+        },
+        {
+            "ticker": "INVE-B.ST",
+            "price": 422.0
+        },
+        {
+            "ticker": "BAER.SW",
+            "price": 63.34000015258789
+        },
+        {
+            "ticker": "KBC.BR",
+            "price": 111.1500015258789
+        },
+        {
+            "ticker": "LI.PA",
+            "price": 38.31999969482422
+        },
+        {
+            "ticker": "CVC.AS",
+            "price": 14.6899995803833
+        },
+        {
+            "ticker": "COV.PA",
+            "price": 43.619998931884766
+        },
+        {
+            "ticker": "III.L",
+            "price": 2814.0
+        },
+        {
+            "ticker": "LSEG.L",
+            "price": 10470.0
+        },
+        {
+            "ticker": "PEGA",
+            "price": 30.510000228881836
+        },
+        {
+            "ticker": "CIEN",
+            "price": 256.5799865722656
+        },
+        {
+            "ticker": "CVNA",
+            "price": 70.08000183105469
+        },
+        {
+            "ticker": "CI",
+            "price": 272.1199951171875
+        },
+        {
+            "ticker": "CMG",
+            "price": 37.31999969482422
+        },
+        {
+            "ticker": "DECK",
+            "price": 86.94000244140625
+        },
+        {
+            "ticker": "DVA",
+            "price": 164.49000549316406
+        },
+        {
+            "ticker": "EL",
+            "price": 112.0199966430664
+        },
+        {
+            "ticker": "GEV",
+            "price": 735.3099975585938
+        },
+        {
+            "ticker": "JBL",
+            "price": 235.91000366210938
+        },
+        {
+            "ticker": "SNDK",
+            "price": 85.36000061035156
+        },
+        {
+            "ticker": "HOOD",
+            "price": 67.91999816894531
+        },
+        {
+            "ticker": "SPG",
+            "price": 235.27000427246094
+        },
+        {
+            "ticker": "SYF",
+            "price": 69.7699966430664
+        },
+        {
+            "ticker": "PFE",
+            "price": 28.520000457763672
+        },
+        {
+            "ticker": "PCG",
+            "price": 14.430000305175781
+        },
+        {
+            "ticker": "PFG",
+            "price": 110.87000274658203
+        },
+        {
+            "ticker": "PNW",
+            "price": 102.72000122070312
+        },
+        {
+            "ticker": "PSX",
+            "price": 242.1199951171875
+        },
+        {
+            "ticker": "CB",
+            "price": 381.0199890136719
+        },
+        {
+            "ticker": "CHD",
+            "price": 112.62000274658203
+        },
+        {
+            "ticker": "SCHW",
+            "price": 94.05999755859375
+        },
+        {
+            "ticker": "CINF",
+            "price": 193.1199951171875
+        },
+        {
+            "ticker": "CRL",
+            "price": 337.3900146484375
+        },
+        {
+            "ticker": "CF",
+            "price": 119.5
+        },
+        {
+            "ticker": "CMS",
+            "price": 71.80000305175781
+        },
+        {
+            "ticker": "CFG",
+            "price": 62.540000915527344
+        },
+        {
+            "ticker": "CMI",
+            "price": 431.1600036621094
+        },
+        {
+            "ticker": "ED",
+            "price": 120.18000030517578
+        },
+        {
+            "ticker": "COP",
+            "price": 136.8000030517578
+        },
+        {
+            "ticker": "COO",
+            "price": 62.279998779296875
+        },
+        {
+            "ticker": "CME",
+            "price": 313.1000061035156
+        },
+        {
+            "ticker": "CLX",
+            "price": 111.26000213623047
+        },
+        {
+            "ticker": "CCI",
+            "price": 84.19999694824219
+        },
+        {
+            "ticker": "CRH",
+            "price": 98.11000061035156
+        },
+        {
+            "ticker": "DLR",
+            "price": 167.16000366210938
+        },
+        {
+            "ticker": "DLTR",
+            "price": 148.52999877929688
+        },
+        {
+            "ticker": "WEC",
+            "price": 119.08000183105469
+        },
+        {
+            "ticker": "IT",
+            "price": 186.55999755859375
+        },
+        {
+            "ticker": "FE",
+            "price": 47.34000015258789
+        },
+        {
+            "ticker": "HRL",
+            "price": 22.719999313354492
+        },
+        {
+            "ticker": "HWM",
+            "price": 217.41000366210938
+        },
+        {
+            "ticker": "PODD",
+            "price": 138.89999389648438
+        },
+        {
+            "ticker": "HUBB",
+            "price": 434.010009765625
+        },
+        {
+            "ticker": "HST",
+            "price": 25.06999969482422
+        },
+        {
+            "ticker": "BEN",
+            "price": 34.18000030517578
+        },
+        {
+            "ticker": "GPN",
+            "price": 97.04000091552734
+        },
+        {
+            "ticker": "ABX",
+            "price": 6.949999809265137
+        },
+        {
+            "ticker": "CHRW",
+            "price": 146.97999572753906
+        },
+        {
+            "ticker": "CNP",
+            "price": 40.18000030517578
+        },
+        {
+            "ticker": "BRO",
+            "price": 78.37999725341797
+        },
+        {
+            "ticker": "CARR",
+            "price": 54.54999923706055
+        },
+        {
+            "ticker": "BXP",
+            "price": 64.23999786376953
+        },
+        {
+            "ticker": "CBRE",
+            "price": 139.8000030517578
+        },
+        {
+            "ticker": "ACGL",
+            "price": 110.33000183105469
+        },
+        {
+            "ticker": "AIZ",
+            "price": 328.17999267578125
+        },
+        {
+            "ticker": "ABBV",
+            "price": 291.8800048828125
+        },
+        {
+            "ticker": "LNT",
+            "price": 73.22000122070312
+        },
+        {
+            "ticker": "AES",
+            "price": 15.029999732971191
+        },
+        {
+            "ticker": "ARE",
+            "price": 43.369998931884766
+        },
+        {
+            "ticker": "ALL",
+            "price": 272.510009765625
+        },
+        {
+            "ticker": "ASHM.L",
+            "price": 185.1999969482422
+        },
+        {
+            "ticker": "BAX",
+            "price": 26.790000915527344
+        },
+        {
+            "ticker": "ATO",
+            "price": 173.16000366210938
+        },
+        {
+            "ticker": "BNY",
+            "price": 149.66000366210938
+        },
+        {
+            "ticker": "XYZ",
+            "price": 77.68000030517578
+        },
+        {
+            "ticker": "BIIB",
+            "price": 264.20001220703125
+        },
+        {
+            "ticker": "CBOE",
+            "price": 351.1199951171875
+        },
+        {
+            "ticker": "COR",
+            "price": 354.3399963378906
+        },
+        {
+            "ticker": "CNC",
+            "price": 65.77999877929688
+        },
+        {
+            "ticker": "CDW",
+            "price": 179.10000610351562
+        },
+        {
+            "ticker": "CPB",
+            "price": 24.170000076293945
+        },
+        {
+            "ticker": "CVS",
+            "price": 82.61000061035156
+        },
+        {
+            "ticker": "CTVA",
+            "price": 8.260000228881836
+        },
+        {
+            "ticker": "DVN",
+            "price": 42.84000015258789
+        },
+        {
+            "ticker": "GLW",
+            "price": 105.08000183105469
+        },
+        {
+            "ticker": "CPAY",
+            "price": 458.29998779296875
+        },
+        {
+            "ticker": "DRI",
+            "price": 243.25999450683594
+        },
+        {
+            "ticker": "DOW",
+            "price": 30.200000762939453
+        },
+        {
+            "ticker": "ETN",
+            "price": 325.9200134277344
+        },
+        {
+            "ticker": "EW",
+            "price": 106.0
+        },
+        {
+            "ticker": "EPAM",
+            "price": 163.8300018310547
+        },
+        {
+            "ticker": "DUK",
+            "price": 131.91000366210938
+        },
+        {
+            "ticker": "ETR",
+            "price": 107.94999694824219
+        },
+        {
+            "ticker": "EMR",
+            "price": 162.2899932861328
+        },
+        {
+            "ticker": "EME",
+            "price": 634.969970703125
+        },
+        {
+            "ticker": "ELV",
+            "price": 393.2200012207031
+        },
+        {
+            "ticker": "HAS",
+            "price": 109.08999633789062
+        },
+        {
+            "ticker": "GNRC",
+            "price": 219.1699981689453
+        },
+        {
+            "ticker": "HAL",
+            "price": 32.38999938964844
+        },
+        {
+            "ticker": "GPC",
+            "price": 124.0
+        },
+        {
+            "ticker": "HCA",
+            "price": 500.9700012207031
+        },
+        {
+            "ticker": "HIG",
+            "price": 139.5800018310547
+        },
+        {
+            "ticker": "GM",
+            "price": 85.19999694824219
+        },
+        {
+            "ticker": "FCX",
+            "price": 50.77000045776367
+        },
+        {
+            "ticker": "FSLR",
+            "price": 149.77000427246094
+        },
+        {
+            "ticker": "BDX",
+            "price": 219.36000061035156
+        },
+        {
+            "ticker": "BMY",
+            "price": 61.119998931884766
+        },
+        {
+            "ticker": "TECH",
+            "price": 72.81999969482422
+        },
+        {
+            "ticker": "MET",
+            "price": 101.06999969482422
+        },
+        {
+            "ticker": "MRNA",
+            "price": 228.63999938964844
+        },
+        {
+            "ticker": "LYV",
+            "price": 182.38999938964844
+        },
+        {
+            "ticker": "MTB",
+            "price": 216.8699951171875
+        },
+        {
+            "ticker": "MS",
+            "price": 170.8800048828125
+        },
+        {
+            "ticker": "KEYS",
+            "price": 278.739990234375
+        },
+        {
+            "ticker": "IR",
+            "price": 85.11000061035156
+        },
+        {
+            "ticker": "JCI",
+            "price": 137.16000366210938
+        },
+        {
+            "ticker": "IFF",
+            "price": 85.22000122070312
+        },
+        {
+            "ticker": "IP",
+            "price": 34.290000915527344
+        },
+        {
+            "ticker": "IVZ",
+            "price": 28.989999771118164
+        },
+        {
+            "ticker": "JKHY",
+            "price": 182.03500366210938
+        },
+        {
+            "ticker": "JBHT",
+            "price": 231.57000732421875
+        },
+        {
+            "ticker": "J",
+            "price": 146.57000732421875
+        },
+        {
+            "ticker": "IQV",
+            "price": 249.38999938964844
+        },
+        {
+            "ticker": "COF",
+            "price": 184.92999267578125
+        },
+        {
+            "ticker": "CPT",
+            "price": 98.94999694824219
+        },
+        {
+            "ticker": "DHI",
+            "price": 156.8000030517578
+        },
+        {
+            "ticker": "DD",
+            "price": 157.27999877929688
+        },
+        {
+            "ticker": "D",
+            "price": 67.94000244140625
+        },
+        {
+            "ticker": "DAL",
+            "price": 84.81999969482422
+        },
+        {
+            "ticker": "DELL",
+            "price": 316.9599914550781
+        },
+        {
+            "ticker": "C",
+            "price": 115.58999633789062
+        },
+        {
+            "ticker": "CAH",
+            "price": 282.8599853515625
+        },
+        {
+            "ticker": "CCL",
+            "price": 28.149999618530273
+        },
+        {
+            "ticker": "BLK",
+            "price": 1166.9599609375
+        },
+        {
+            "ticker": "ERIE",
+            "price": 280.3500061035156
+        },
+        {
+            "ticker": "EFX",
+            "price": 185.4499969482422
+        },
+        {
+            "ticker": "EOG",
+            "price": 148.6999969482422
+        },
+        {
+            "ticker": "EG",
+            "price": 436.0
+        },
+        {
+            "ticker": "FDX",
+            "price": 311.6000061035156
+        },
+        {
+            "ticker": "LEN",
+            "price": 86.08999633789062
+        },
+        {
+            "ticker": "KMB",
+            "price": 109.11000061035156
+        },
+        {
+            "ticker": "EXPD",
+            "price": 199.4600067138672
+        },
+        {
+            "ticker": "EXE",
+            "price": 87.44999694824219
+        },
+        {
+            "ticker": "EXPE",
+            "price": 246.6199951171875
+        },
+        {
+            "ticker": "FFIV",
+            "price": 322.8599853515625
+        },
+        {
+            "ticker": "F",
+            "price": 12.329999923706055
+        },
+        {
+            "ticker": "FIS",
+            "price": 28.209999084472656
+        },
+        {
+            "ticker": "FOX",
+            "price": 58.869998931884766
+        },
+        {
+            "ticker": "AJG",
+            "price": 292.5
+        },
+        {
+            "ticker": "AON",
+            "price": 348.42999267578125
+        },
+        {
+            "ticker": "FIX",
+            "price": 1128.6400146484375
+        },
+        {
+            "ticker": "CAG",
+            "price": 15.520000457763672
+        },
+        {
+            "ticker": "EIX",
+            "price": 63.529998779296875
+        },
+        {
+            "ticker": "ESS",
+            "price": 280.7900085449219
+        },
+        {
+            "ticker": "EVRG",
+            "price": 87.63999938964844
+        },
+        {
+            "ticker": "ES",
+            "price": 73.0199966430664
+        },
+        {
+            "ticker": "EXR",
+            "price": 161.77999877929688
+        },
+        {
+            "ticker": "FRT",
+            "price": 114.48999786376953
+        },
+        {
+            "ticker": "IRM",
+            "price": 104.36000061035156
+        },
+        {
+            "ticker": "INVH",
+            "price": 27.850000381469727
+        },
+        {
+            "ticker": "INCY",
+            "price": 122.62999725341797
+        },
+        {
+            "ticker": "KEY",
+            "price": 20.5
+        },
+        {
+            "ticker": "TPL",
+            "price": 263.510009765625
+        },
+        {
+            "ticker": "LII",
+            "price": 350.0400085449219
+        },
+        {
+            "ticker": "LW",
+            "price": 52.400001525878906
+        },
+        {
+            "ticker": "KR",
+            "price": 69.36000061035156
+        },
+        {
+            "ticker": "KMI",
+            "price": 32.06999969482422
+        },
+        {
+            "ticker": "LHX",
+            "price": 266.0899963378906
+        },
+        {
+            "ticker": "UDR",
+            "price": 36.77000045776367
+        },
+        {
+            "ticker": "NEE",
+            "price": 84.94999694824219
+        },
+        {
+            "ticker": "NI",
+            "price": 45.20000076293945
+        },
+        {
+            "ticker": "PLD",
+            "price": 126.94999694824219
+        },
+        {
+            "ticker": "O",
+            "price": 60.5099983215332
+        },
+        {
+            "ticker": "RJF",
+            "price": 165.14999389648438
+        },
+        {
+            "ticker": "PNC",
+            "price": 222.6999969482422
+        },
+        {
+            "ticker": "PSA",
+            "price": 338.20001220703125
+        },
+        {
+            "ticker": "PEG",
+            "price": 75.27999877929688
+        },
+        {
+            "ticker": "PGR",
+            "price": 239.13999938964844
+        },
+        {
+            "ticker": "BX",
+            "price": 121.95999908447266
+        },
+        {
+            "ticker": "BAC",
+            "price": 49.06999969482422
+        },
+        {
+            "ticker": "BRK-B",
+            "price": 580.7899780273438
+        },
+        {
+            "ticker": "APA",
+            "price": 46.099998474121094
+        },
+        {
+            "ticker": "APO",
+            "price": 122.97000122070312
+        },
+        {
+            "ticker": "ARES",
+            "price": 136.4600067138672
+        },
+        {
+            "ticker": "AMP",
+            "price": 507.1199951171875
+        },
+        {
+            "ticker": "AWK",
+            "price": 153.75999450683594
+        },
+        {
+            "ticker": "AEE",
+            "price": 114.8499984741211
+        },
+        {
+            "ticker": "FITB",
+            "price": 52.06999969482422
+        },
+        {
+            "ticker": "HLT",
+            "price": 369.94000244140625
+        },
+        {
+            "ticker": "HUM",
+            "price": 405.4599914550781
+        },
+        {
+            "ticker": "IEX",
+            "price": 227.4199981689453
+        },
+        {
+            "ticker": "HSY",
+            "price": 182.77000427246094
+        },
+        {
+            "ticker": "HPE",
+            "price": 42.7599983215332
+        },
+        {
+            "ticker": "HPQ",
+            "price": 32.150001525878906
+        },
+        {
+            "ticker": "LVS",
+            "price": 41.150001525878906
+        },
+        {
+            "ticker": "LDOS",
+            "price": 131.77999877929688
+        },
+        {
+            "ticker": "KIM",
+            "price": 26.030000686645508
+        },
+        {
+            "ticker": "KKR",
+            "price": 95.77999877929688
+        },
+        {
+            "ticker": "LLY",
+            "price": 1392.3800048828125
+        },
+        {
+            "ticker": "MPC",
+            "price": 359.79998779296875
+        },
+        {
+            "ticker": "P",
+            "price": 101.45999908447266
+        },
+        {
+            "ticker": "HBAN",
+            "price": 15.039999961853027
+        },
+        {
+            "ticker": "HII",
+            "price": 304.4800109863281
+        },
+        {
+            "ticker": "ICE",
+            "price": 178.49000549316406
+        },
+        {
+            "ticker": "L",
+            "price": 111.33999633789062
+        },
+        {
+            "ticker": "OXY",
+            "price": 54.16999816894531
+        },
+        {
+            "ticker": "T",
+            "price": 23.209999084472656
+        },
+        {
+            "ticker": "COIN",
+            "price": 107.04000091552734
+        },
+        {
+            "ticker": "DTE",
+            "price": 137.89999389648438
+        },
+        {
+            "ticker": "WFC",
+            "price": 82.27999877929688
+        },
+        {
+            "ticker": "WELL",
+            "price": 249.69000244140625
+        },
+        {
+            "ticker": "VICI",
+            "price": 25.1200008392334
+        },
+        {
+            "ticker": "WRB",
+            "price": 79.30999755859375
+        },
+        {
+            "ticker": "VST",
+            "price": 122.6500015258789
+        },
+        {
+            "ticker": "DOC",
+            "price": 20.959999084472656
+        },
+        {
+            "ticker": "MAA",
+            "price": 117.48999786376953
+        },
+        {
+            "ticker": "RF",
+            "price": 28.100000381469727
+        },
+        {
+            "ticker": "REG",
+            "price": 75.77999877929688
+        },
+        {
+            "ticker": "SBAC",
+            "price": 177.6300048828125
+        },
+        {
+            "ticker": "SO",
+            "price": 95.04000091552734
+        },
+        {
+            "ticker": "VTR",
+            "price": 88.58999633789062
+        },
+        {
+            "ticker": "VLO",
+            "price": 329.3900146484375
+        },
+        {
+            "ticker": "UHS",
+            "price": 192.9600067138672
+        },
+        {
+            "ticker": "SRE",
+            "price": 79.05000305175781
+        },
+        {
+            "ticker": "TFC",
+            "price": 48.5
+        },
+        {
+            "ticker": "GE",
+            "price": 323.94000244140625
+        },
+        {
+            "ticker": "CASY",
+            "price": 715.02001953125
+        },
+        {
+            "ticker": "COHR",
+            "price": 223.7899932861328
+        },
+        {
+            "ticker": "ECHO",
+            "price": 88.7699966430664
+        },
+        {
+            "ticker": "LITE",
+            "price": 514.6300048828125
+        },
+        {
+            "ticker": "VRT",
+            "price": 178.7100067138672
+        },
+        {
+            "ticker": "QSR",
+            "price": 76.66000366210938
+        },
+        {
+            "ticker": "BN",
+            "price": 41.369998931884766
+        },
+        {
+            "ticker": "HHH",
+            "price": 79.63999938964844
+        },
+        {
+            "ticker": "SEG",
+            "price": 19.760000228881836
+        },
+        {
+            "ticker": "HTZ",
+            "price": 1.1299999952316284
+        },
+        {
+            "ticker": "ADT",
+            "price": 9.949999809265137
+        },
+        {
+            "ticker": "AAP",
+            "price": 45.900001525878906
+        },
+        {
+            "ticker": "AAL",
+            "price": 12.8100004196167
+        },
+        {
+            "ticker": "KMX",
+            "price": 52.43000030517578
+        },
+        {
+            "ticker": "M",
+            "price": 24.420000076293945
+        },
+        {
+            "ticker": "VNO",
+            "price": 35.400001525878906
+        },
+        {
+            "ticker": "VFC",
+            "price": 22.25
+        },
+        {
+            "ticker": "SIG",
+            "price": 106.08000183105469
+        },
+        {
+            "ticker": "BWA",
+            "price": 50.43000030517578
+        },
+        {
+            "ticker": "ZION",
+            "price": 63.0099983215332
+        },
+        {
+            "ticker": "BFH",
+            "price": 94.16999816894531
+        },
+        {
+            "ticker": "FOSL",
+            "price": 8.609999656677246
+        },
+        {
+            "ticker": "GAP",
+            "price": 23.68000030517578
+        },
+        {
+            "ticker": "AA",
+            "price": 36.279998779296875
+        },
+        {
+            "ticker": "CNX",
+            "price": 36.18000030517578
+        },
+        {
+            "ticker": "VAL",
+            "price": 77.87999725341797
+        },
+        {
+            "ticker": "UNM",
+            "price": 82.69999694824219
+        },
+        {
+            "ticker": "URBN",
+            "price": 79.54000091552734
+        },
+        {
+            "ticker": "GF8.F",
+            "price": 9.859999656677246
+        },
+        {
+            "ticker": "SPCX",
+            "price": 133.58999633789062
+        },
+        {
+            "ticker": "SWDBY",
+            "price": 39.88999938964844
+        },
+        {
+            "ticker": "SEBA.F",
+            "price": 19.135000228881836
+        },
+        {
+            "ticker": "ACS.MC",
+            "price": 82.8499984741211
+        },
+        {
+            "ticker": "SCYR.MC",
+            "price": 4.203999996185303
+        },
+        {
+            "ticker": "ANE.MC",
+            "price": 19.790000915527344
+        },
+        {
+            "ticker": "ENG.MC",
+            "price": 18.309999465942383
+        },
+        {
+            "ticker": "COL.MC",
+            "price": 5.085000038146973
+        },
+        {
+            "ticker": "ICAGY",
+            "price": 11.710000038146973
+        },
+        {
+            "ticker": "MRL.MC",
+            "price": 11.789999961853027
+        },
+        {
+            "ticker": "BGEO.L",
+            "price": 12180.0
+        },
+        {
+            "ticker": "LMP.L",
+            "price": 186.89999389648438
+        },
+        {
+            "ticker": "PSH.L",
+            "price": 3934.0
+        },
+        {
+            "ticker": "LAND.L",
+            "price": 688.5
+        },
+        {
+            "ticker": "X4Z.F",
+            "price": 40.81999969482422
+        },
+        {
+            "ticker": "PCT.L",
+            "price": 535.0
+        },
+        {
+            "ticker": "SMT.L",
+            "price": 1460.0
+        },
+        {
+            "ticker": "IGG.L",
+            "price": 980.0
+        },
+        {
+            "ticker": "FERG",
+            "price": 261.9100036621094
+        },
+        {
+            "ticker": "FCIT.L",
+            "price": 329.3999938964844
+        },
+        {
+            "ticker": "IHG",
+            "price": 176.5500030517578
+        },
+        {
+            "ticker": "ALW.L",
+            "price": 1329.0
+        },
+        {
+            "ticker": "AED.BR",
+            "price": 67.44999694824219
+        },
+        {
+            "ticker": "APAM",
+            "price": 34.869998931884766
+        },
+        {
+            "ticker": "MONT.BR",
+            "price": 70.5999984741211
+        },
+        {
+            "ticker": "WPHB.HM",
+            "price": 19.350000381469727
+        },
+        {
+            "ticker": "MANTA.HE",
+            "price": 5.875
+        },
+        {
+            "ticker": "KEMIRA.HE",
+            "price": 15.229999542236328
+        },
+        {
+            "ticker": "OUT1V.HE",
+            "price": 3.380000114440918
+        },
+        {
+            "ticker": "VALMT.HE",
+            "price": 28.059999465942383
+        },
+        {
+            "ticker": "TIETO.HE",
+            "price": 18.610000610351562
+        },
+        {
+            "ticker": "SSAB-B.ST",
+            "price": 89.80000305175781
+        },
+        {
+            "ticker": "QTCOM.HE",
+            "price": 29.6200008392334
+        },
+        {
+            "ticker": "IBS.LS",
+            "price": 10.0600004196167
+        },
+        {
+            "ticker": "ACJ.F",
+            "price": 3.990000009536743
+        },
+        {
+            "ticker": "NVG.LS",
+            "price": 3.0320000648498535
+        },
+        {
+            "ticker": "PHR.LS",
+            "price": 0.0940999984741211
+        },
+        {
+            "ticker": "COR.LS",
+            "price": 6.679999828338623
+        },
+        {
+            "ticker": "CTT.LS",
+            "price": 4.992000102996826
+        },
+        {
+            "ticker": "ZEHN.SW",
+            "price": 73.4000015258789
+        },
+        {
+            "ticker": "JEN.DE",
+            "price": 33.7400016784668
+        },
+        {
+            "ticker": "EGL.LS",
+            "price": 4.71999979019165
+        },
+        {
+            "ticker": "SON.LS",
+            "price": 2.3299999237060547
+        },
+        {
+            "ticker": "NBA.LS",
+            "price": 7.179999828338623
+        },
+        {
+            "ticker": "RENE.LS",
+            "price": 3.944999933242798
+        },
+        {
+            "ticker": "NOS.LS",
+            "price": 5.795000076293945
+        },
+        {
+            "ticker": "FLO.L",
+            "price": 37.5
+        },
+        {
+            "ticker": "NORB-B.ST",
+            "price": 7.760000228881836
+        },
+        {
+            "ticker": "MTLS",
+            "price": 6.269999980926514
+        },
+        {
+            "ticker": "VAN.BR",
+            "price": 29.200000762939453
+        },
+        {
+            "ticker": "FLOB.BR",
+            "price": 53.0
+        },
+        {
+            "ticker": "IBAB.BR",
+            "price": 15.800000190734863
+        },
+        {
+            "ticker": "KIN.BR",
+            "price": 49.900001525878906
+        },
+        {
+            "ticker": "TESB.BR",
+            "price": 16.040000915527344
+        },
+        {
+            "ticker": "SIP.BR",
+            "price": 108.80000305175781
+        },
+        {
+            "ticker": "ENRGY.BR",
+            "price": 21.850000381469727
+        },
+        {
+            "ticker": "REC.BR",
+            "price": "N/A"
+        },
+        {
+            "ticker": "BAR.BR",
+            "price": 5.949999809265137
+        },
+        {
+            "ticker": "BPOST.BR",
+            "price": 0.8009999990463257
+        },
+        {
+            "ticker": "ECONB.BR",
+            "price": 1.399999976158142
+        },
+        {
+            "ticker": "IMMO.BR",
+            "price": 17.299999237060547
+        },
+        {
+            "ticker": "ONWD.BR",
+            "price": 1.3600000143051147
+        },
+        {
+            "ticker": "ROU.BR",
+            "price": 11.0
+        },
+        {
+            "ticker": "ONTEX.BR",
+            "price": 1.2400000095367432
+        },
+        {
+            "ticker": "HARB-B.CO",
+            "price": 119.0
+        },
+        {
+            "ticker": "TCM.CO",
+            "price": 64.0
+        },
+        {
+            "ticker": "HUSCO.CO",
+            "price": 22.799999237060547
+        },
+        {
+            "ticker": "BIOPOR.CO",
+            "price": 0.9300000071525574
+        },
+        {
+            "ticker": "AGF-B.CO",
+            "price": 0.9399999976158142
+        },
+        {
+            "ticker": "GABR.CO",
+            "price": 218.0
+        },
+        {
+            "ticker": "TGAMES.CO",
+            "price": 11.5
+        },
+        {
+            "ticker": "GREENM.CO",
+            "price": 63.400001525878906
+        },
+        {
+            "ticker": "DONKEY.CO",
+            "price": 8.100000381469727
+        },
+        {
+            "ticker": "BIF.CO",
+            "price": 0.27300000190734863
+        },
+        {
+            "ticker": "PFINV.CO",
+            "price": 30.200000762939453
+        },
+        {
+            "ticker": "HVID.CO",
+            "price": 187.0
+        },
+        {
+            "ticker": "RBLN-B.CO",
+            "price": 89.80000305175781
+        },
+        {
+            "ticker": "RIAS-B.CO",
+            "price": 640.0
+        },
+        {
+            "ticker": "IMPERO.CO",
+            "price": 8.0
+        },
+        {
+            "ticker": "KONSOL.CO",
+            "price": 3.5799999237060547
+        },
+        {
+            "ticker": "DATA.CO",
+            "price": 4.099999904632568
+        },
+        {
+            "ticker": "HOVE.CO",
+            "price": 6.320000171661377
+        },
+        {
+            "ticker": "GJ.CO",
+            "price": 82.0
+        },
+        {
+            "ticker": "KLEE-B.CO",
+            "price": 4200.0
+        },
+        {
+            "ticker": "STRINV.CO",
+            "price": 0.5899999737739563
+        },
+        {
+            "ticker": "FED.CO",
+            "price": 240.0
+        },
+        {
+            "ticker": "AGAT.CO",
+            "price": 0.8199999928474426
+        },
+        {
+            "ticker": "CEMAT.CO",
+            "price": 0.8600000143051147
+        },
+        {
+            "ticker": "SIG.CO",
+            "price": 3.359999895095825
+        },
+        {
+            "ticker": "FFARMS.CO",
+            "price": 59.79999923706055
+        },
+        {
+            "ticker": "RTX.CO",
+            "price": 103.5
+        },
+        {
+            "ticker": "GYLD-A.CO",
+            "price": 1180.0
+        },
+        {
+            "ticker": "NNIT.CO",
+            "price": 38.79999923706055
+        },
+        {
+            "ticker": "CBRAIN.CO",
+            "price": 100.4000015258789
+        },
+        {
+            "ticker": "BO.CO",
+            "price": 11.140000343322754
+        },
+        {
+            "ticker": "COLUM.CO",
+            "price": 8.680000305175781
+        },
+        {
+            "ticker": "FLUG-B.CO",
+            "price": 378.0
+        },
+        {
+            "ticker": "NORTHM.CO",
+            "price": 47.599998474121094
+        },
+        {
+            "ticker": "HH.CO",
+            "price": 92.80000305175781
+        },
+        {
+            "ticker": "SOLAR-B.CO",
+            "price": 194.39999389648438
+        },
+        {
+            "ticker": "TRIFOR.CO",
+            "price": 113.0
+        },
+        {
+            "ticker": "AOJ-B.CO",
+            "price": 103.5999984741211
+        },
+        {
+            "ticker": "MTHH.CO",
+            "price": 335.0
+        },
+        {
+            "ticker": "PARKEN.CO",
+            "price": 255.0
+        },
+        {
+            "ticker": "TIV.CO",
+            "price": 610.0
+        },
+        {
+            "ticker": "MATAS.CO",
+            "price": 80.9000015258789
+        },
+        {
+            "ticker": "NXFIL.AS",
+            "price": 2.5299999713897705
+        },
+        {
+            "ticker": "AJAX.AS",
+            "price": 7.739999771118164
+        },
+        {
+            "ticker": "AVTX.AS",
+            "price": 1.7619999647140503
+        },
+        {
+            "ticker": "HYDRA.AS",
+            "price": 208.0
+        },
+        {
+            "ticker": "ALFEN.AS",
+            "price": 9.0649995803833
+        },
+        {
+            "ticker": "MTRK.AS",
+            "price": 2.299999952316284
+        },
+        {
+            "ticker": "AZRN.AS",
+            "price": 0.5799999833106995
+        },
+        {
+            "ticker": "DKUPL.PA",
+            "price": 22.0
+        },
+        {
+            "ticker": "EXE.PA",
+            "price": 18.399999618530273
+        },
+        {
+            "ticker": "ALNSE.PA",
+            "price": 37.599998474121094
+        },
+        {
+            "ticker": "BLC.PA",
+            "price": 19.639999389648438
+        },
+        {
+            "ticker": "LAT.PA",
+            "price": 0.010999999940395355
+        },
+        {
+            "ticker": "LOCAL.PA",
+            "price": 3.700000047683716
+        },
+        {
+            "ticker": "5UP.F",
+            "price": 7.559999942779541
+        },
+        {
+            "ticker": "ATEME.PA",
+            "price": 13.5
+        },
+        {
+            "ticker": "ALHEX.PA",
+            "price": 20.600000381469727
+        },
+        {
+            "ticker": "ALESE.PA",
+            "price": 9.34000015258789
+        },
+        {
+            "ticker": "GET.DU",
+            "price": 7.239999771118164
+        },
+        {
+            "ticker": "MDM.PA",
+            "price": 0.1754000037908554
+        },
+        {
+            "ticker": "ALMDT.PA",
+            "price": 4.295000076293945
+        },
+        {
+            "ticker": "RBO.PA",
+            "price": 16.5
+        },
+        {
+            "ticker": "ALLAN.PA",
+            "price": 26.0
+        },
+        {
+            "ticker": "SFPI.PA",
+            "price": 1.899999976158142
+        },
+        {
+            "ticker": "AKW.PA",
+            "price": 7.0
+        },
+        {
+            "ticker": "PARP.PA",
+            "price": 16.450000762939453
+        },
+        {
+            "ticker": "ALLIX.PA",
+            "price": 22.100000381469727
+        },
+        {
+            "ticker": "ALEXA.PA",
+            "price": 143.0
+        },
+        {
+            "ticker": "ALCIS.PA",
+            "price": 16.799999237060547
+        },
+        {
+            "ticker": "ALVU.PA",
+            "price": 16.200000762939453
+        },
+        {
+            "ticker": "DEEZR.PA",
+            "price": 1.1699999570846558
+        },
+        {
+            "ticker": "ALSTW.PA",
+            "price": 62.79999923706055
+        },
+        {
+            "ticker": "ALDLT.PA",
+            "price": 23.200000762939453
+        },
+        {
+            "ticker": "ALRIB.PA",
+            "price": 6.539999961853027
+        },
+        {
+            "ticker": "MLCMB.PA",
+            "price": 252.0
+        },
+        {
+            "ticker": "ALCPB.PA",
+            "price": 4.684000015258789
+        },
+        {
+            "ticker": "ALSTI.PA",
+            "price": 17.399999618530273
+        },
+        {
+            "ticker": "BON.PA",
+            "price": 7.909999847412109
+        },
+        {
+            "ticker": "GPE.PA",
+            "price": 54.29999923706055
+        },
+        {
+            "ticker": "FSDV.PA",
+            "price": 16.600000381469727
+        },
+        {
+            "ticker": "INF.PA",
+            "price": 39.099998474121094
+        },
+        {
+            "ticker": "LIN.PA",
+            "price": 46.099998474121094
+        },
+        {
+            "ticker": "PARRO.PA",
+            "price": 7.449999809265137
+        },
+        {
+            "ticker": "MBWS.PA",
+            "price": 2.7799999713897705
+        },
+        {
+            "ticker": "ALBFR.PA",
+            "price": 195.0
+        },
+        {
+            "ticker": "EFG.PA",
+            "price": 1.4249999523162842
+        },
+        {
+            "ticker": "ARAMI.PA",
+            "price": 3.140000104904175
+        },
+        {
+            "ticker": "LNA.PA",
+            "price": 26.799999237060547
+        },
+        {
+            "ticker": "PERR.PA",
+            "price": "N/A"
+        },
+        {
+            "ticker": "ALPG.PA",
+            "price": 36.79999923706055
+        },
+        {
+            "ticker": "GAM.PA",
+            "price": 99.5
+        },
+        {
+            "ticker": "CVX.PA",
+            "price": 4.699999809265137
+        },
+        {
+            "ticker": "ALGIL.PA",
+            "price": 20.0
+        },
+        {
+            "ticker": "KOF.PA",
+            "price": 20.600000381469727
+        },
+        {
+            "ticker": "SMCP.PA",
+            "price": 4.432000160217285
+        },
+        {
+            "ticker": "LPE.PA",
+            "price": 82.5999984741211
+        },
+        {
+            "ticker": "ELIOR.PA",
+            "price": 1.6670000553131104
+        },
+        {
+            "ticker": "BEN.PA",
+            "price": 5.090000152587891
+        },
+        {
+            "ticker": "JCQ.PA",
+            "price": 21.049999237060547
+        },
+        {
+            "ticker": "ATO.PA",
+            "price": 22.34000015258789
+        },
+        {
+            "ticker": "MALT.PA",
+            "price": 705.0
+        },
+        {
+            "ticker": "SAMS.PA",
+            "price": 115.0
+        },
+        {
+            "ticker": "NRG.PA",
+            "price": 5.940000057220459
+        },
+        {
+            "ticker": "FCMC.PA",
+            "price": 2700.0
+        },
+        {
+            "ticker": "EQS.PA",
+            "price": 27.799999237060547
+        },
+        {
+            "ticker": "QDT.PA",
+            "price": 14.600000381469727
+        },
+        {
+            "ticker": "FGA.PA",
+            "price": 10.720000267028809
+        },
+        {
+            "ticker": "SCHP.PA",
+            "price": 76.9000015258789
+        },
+        {
+            "ticker": "SBT.PA",
+            "price": 8.760000228881836
+        },
+        {
+            "ticker": "CEN.PA",
+            "price": 49.099998474121094
+        },
+        {
+            "ticker": "LBIRD.PA",
+            "price": 29.0
+        },
+        {
+            "ticker": "ALSEM.PA",
+            "price": 34.54999923706055
+        },
+        {
+            "ticker": "ASY.PA",
+            "price": 35.599998474121094
+        },
+        {
+            "ticker": "AL2SI.PA",
+            "price": 18.350000381469727
+        },
+        {
+            "ticker": "THEP.PA",
+            "price": 65.4000015258789
+        },
+        {
+            "ticker": "AUB.PA",
+            "price": 50.400001525878906
+        },
+        {
+            "ticker": "SDG.PA",
+            "price": 28.799999237060547
+        },
+        {
+            "ticker": "BUR.PA",
+            "price": 316.0
+        },
+        {
+            "ticker": "EXPL.PA",
+            "price": 295.0
+        },
+        {
+            "ticker": "GLO.PA",
+            "price": 29.5
+        },
+        {
+            "ticker": "UBI.PA",
+            "price": 3.0840001106262207
+        },
+        {
+            "ticker": "WAVE.PA",
+            "price": 34.849998474121094
+        },
+        {
+            "ticker": "SAVE.PA",
+            "price": 54.79999923706055
+        },
+        {
+            "ticker": "ALVDM.PA",
+            "price": 180.0
+        },
+        {
+            "ticker": "MTU.PA",
+            "price": 19.559999465942383
+        },
+        {
+            "ticker": "XFAB.PA",
+            "price": 4.664000034332275
+        },
+        {
+            "ticker": "VAC.PA",
+            "price": 1.8700000047683716
+        },
+        {
+            "ticker": "CDA.PA",
+            "price": 19.18000030517578
+        },
+        {
+            "ticker": "NRO.PA",
+            "price": 40.400001525878906
+        },
+        {
+            "ticker": "GDS.PA",
+            "price": 7.78000020980835
+        },
+        {
+            "ticker": "FNAC.PA",
+            "price": 33.45000076293945
+        },
+        {
+            "ticker": "MRN.PA",
+            "price": 35.279998779296875
+        },
+        {
+            "ticker": "ERA.PA",
+            "price": 17.079999923706055
+        },
+        {
+            "ticker": "CLARI.PA",
+            "price": 4.618000030517578
+        },
+        {
+            "ticker": "TFI.PA",
+            "price": 6.235000133514404
+        },
+        {
+            "ticker": "DBG.PA",
+            "price": 7.420000076293945
+        },
+        {
+            "ticker": "IPS.PA",
+            "price": 35.220001220703125
+        },
+        {
+            "ticker": "VIV.PA",
+            "price": 1.5880000591278076
+        },
+        {
+            "ticker": "MMT.PA",
+            "price": 11.039999961853027
+        },
+        {
+            "ticker": "PLNW.PA",
+            "price": 24.75
+        },
+        {
+            "ticker": "ALHG.PA",
+            "price": 1.8229999542236328
+        },
+        {
+            "ticker": "EMEIS.PA",
+            "price": 11.430000305175781
+        },
+        {
+            "ticker": "RBT.PA",
+            "price": 827.0
+        },
+        {
+            "ticker": "STF.PA",
+            "price": 123.4000015258789
+        },
+        {
+            "ticker": "NK.PA",
+            "price": 24.6200008392334
+        },
+        {
+            "ticker": "ETL.PA",
+            "price": 1.5889999866485596
+        },
+        {
+            "ticker": "OPM.PA",
+            "price": 9.404999732971191
+        },
+        {
+            "ticker": "FRVIA.PA",
+            "price": 8.637999534606934
+        },
+        {
+            "ticker": "ESY.HM",
+            "price": 19.5
+        },
+        {
+            "ticker": "SB1.DE",
+            "price": 7.619999885559082
+        },
+        {
+            "ticker": "MSGL.HM",
+            "price": 3.640000104904175
+        },
+        {
+            "ticker": "TC1.DE",
+            "price": "N/A"
+        },
+        {
+            "ticker": "SYT.DE",
+            "price": 1.965000033378601
+        },
+        {
+            "ticker": "TIW.F",
+            "price": 8.300000190734863
+        },
+        {
+            "ticker": "SJJ.DE",
+            "price": 14.949999809265137
+        },
+        {
+            "ticker": "HAW.DE",
+            "price": 13.449999809265137
+        },
+        {
+            "ticker": "MZX.DE",
+            "price": 13.75
+        },
+        {
+            "ticker": "ED4.DE",
+            "price": 2.8399999141693115
+        },
+        {
+            "ticker": "EVAC.DE",
+            "price": 8.600000381469727
+        },
+        {
+            "ticker": "WOLF.DE",
+            "price": 2.9200000762939453
+        },
+        {
+            "ticker": "MUB.DE",
+            "price": 42.599998474121094
+        },
+        {
+            "ticker": "SKB.DE",
+            "price": 8.170000076293945
+        },
+        {
+            "ticker": "HMU.DE",
+            "price": 31.799999237060547
+        },
+        {
+            "ticker": "FAA.DE",
+            "price": 19.25
+        },
+        {
+            "ticker": "M7U.DE",
+            "price": 22.600000381469727
+        },
+        {
+            "ticker": "AEIN.DE",
+            "price": 13.100000381469727
+        },
+        {
+            "ticker": "LIK.DE",
+            "price": 520.0
+        },
+        {
+            "ticker": "TTK.DE",
+            "price": 2.0799999237060547
+        },
+        {
+            "ticker": "TTR1.DE",
+            "price": 25.850000381469727
+        },
+        {
+            "ticker": "AAG.DE",
+            "price": 13.899999618530273
+        },
+        {
+            "ticker": "VRV.DE",
+            "price": 0.6880000233650208
+        },
+        {
+            "ticker": "GMM.DE",
+            "price": 7.75
+        },
+        {
+            "ticker": "WEW.DE",
+            "price": 14.449999809265137
+        },
+        {
+            "ticker": "BKHT.DE",
+            "price": 15.350000381469727
+        },
+        {
+            "ticker": "B5A0.HM",
+            "price": 5.599999904632568
+        },
+        {
+            "ticker": "EIS.F",
+            "price": 13.800000190734863
+        },
+        {
+            "ticker": "LNSX.F",
+            "price": 13.399999618530273
+        },
+        {
+            "ticker": "BYW6.DE",
+            "price": 1.649999976158142
+        },
+        {
+            "ticker": "ST5.DE",
+            "price": 14.239999771118164
+        },
+        {
+            "ticker": "MED.DE",
+            "price": 5.0
+        },
+        {
+            "ticker": "SBS.DE",
+            "price": 28.850000381469727
+        },
+        {
+            "ticker": "ILM1.DE",
+            "price": 10.979999542236328
+        },
+        {
+            "ticker": "ZIL2.DE",
+            "price": 6.289999961853027
+        },
+        {
+            "ticker": "A1OS.DE",
+            "price": 79.19999694824219
+        },
+        {
+            "ticker": "ADN1.DE",
+            "price": 81.80000305175781
+        },
+        {
+            "ticker": "F3C.DE",
+            "price": 19.200000762939453
+        },
+        {
+            "ticker": "UZU.DE",
+            "price": 66.5999984741211
+        },
+        {
+            "ticker": "BVB.DE",
+            "price": 3.2200000286102295
+        },
+        {
+            "ticker": "EKT.DE",
+            "price": 18.0
+        },
+        {
+            "ticker": "HFG.DE",
+            "price": 3.25
+        },
+        {
+            "ticker": "BIJ.DE",
+            "price": 47.099998474121094
+        },
+        {
+            "ticker": "STM.DE",
+            "price": 12.579999923706055
+        },
+        {
+            "ticker": "M12.DE",
+            "price": 19.100000381469727
+        },
+        {
+            "ticker": "LPK.DE",
+            "price": 7.579999923706055
+        },
+        {
+            "ticker": "WSU.DE",
+            "price": 30.299999237060547
+        },
+        {
+            "ticker": "IVU.DE",
+            "price": 27.100000381469727
+        },
+        {
+            "ticker": "SIN.DE",
+            "price": "N/A"
+        },
+        {
+            "ticker": "HDD.DE",
+            "price": 1.059999942779541
+        },
+        {
+            "ticker": "IXX.DE",
+            "price": 32.400001525878906
+        },
+        {
+            "ticker": "IFA1.DE",
+            "price": "N/A"
+        },
+        {
+            "ticker": "SGL.DE",
+            "price": 4.434999942779541
+        },
+        {
+            "ticker": "NB2.DE",
+            "price": "N/A"
+        },
+        {
+            "ticker": "MUM.DE",
+            "price": 34.54999923706055
+        },
+        {
+            "ticker": "PNE3.DE",
+            "price": 3.880000114440918
+        },
+        {
+            "ticker": "EVT.DE",
+            "price": 2.5420000553131104
+        },
+        {
+            "ticker": "BSL.DE",
+            "price": 22.399999618530273
+        },
+        {
+            "ticker": "PSM.DE",
+            "price": 2.5999999046325684
+        },
+        {
+            "ticker": "TPE.DE",
+            "price": 24.6200008392334
+        },
+        {
+            "ticker": "PSAN.DE",
+            "price": "N/A"
+        },
+        {
+            "ticker": "PHH2.DE",
+            "price": "N/A"
+        },
+        {
+            "ticker": "NLM.DE",
+            "price": "N/A"
+        },
+        {
+            "ticker": "GFT.DE",
+            "price": 25.299999237060547
+        },
+        {
+            "ticker": "D6H.DE",
+            "price": "N/A"
+        },
+        {
+            "ticker": "SSH.F",
+            "price": 60.5
+        },
+        {
+            "ticker": "COK.DE",
+            "price": 19.420000076293945
+        },
+        {
+            "ticker": "SHF.DE",
+            "price": 93.0
+        },
+        {
+            "ticker": "VINC.DE",
+            "price": "N/A"
+        },
+        {
+            "ticker": "TIMA.DE",
+            "price": 41.79999923706055
+        },
+        {
+            "ticker": "ASTA.VI",
+            "price": "N/A"
+        },
+        {
+            "ticker": "1INN.DE",
+            "price": 43.400001525878906
+        },
+        {
+            "ticker": "CWC.DE",
+            "price": 113.5999984741211
+        },
+        {
+            "ticker": "EUZ.DE",
+            "price": 15.649999618530273
+        },
+        {
+            "ticker": "EUK3.DE",
+            "price": "N/A"
+        },
+        {
+            "ticker": "DOU.DE",
+            "price": 7.019999980926514
+        },
+        {
+            "ticker": "MBB.DE",
+            "price": 198.60000610351562
+        },
+        {
+            "ticker": "NA9.DE",
+            "price": 78.75
+        },
+        {
+            "ticker": "VOS.DE",
+            "price": 46.540000915527344
+        },
+        {
+            "ticker": "TMV.DE",
+            "price": 4.544000148773193
+        },
+        {
+            "ticker": "JST.DE",
+            "price": 56.5
+        },
+        {
+            "ticker": "SFQ.DE",
+            "price": 23.200000762939453
+        },
+        {
+            "ticker": "CHG.DE",
+            "price": 42.95000076293945
+        },
+        {
+            "ticker": "GXI.DE",
+            "price": 30.3799991607666
+        },
+        {
+            "ticker": "RHK.DE",
+            "price": 14.300000190734863
+        },
+        {
+            "ticker": "INH.DE",
+            "price": 33.79999923706055
+        },
+        {
+            "ticker": "DUE.DE",
+            "price": 16.8799991607666
+        },
+        {
+            "ticker": "ADV.DE",
+            "price": 20.700000762939453
+        },
+        {
+            "ticker": "PFSE.DE",
+            "price": 57.29999923706055
+        },
+        {
+            "ticker": "2GB.DE",
+            "price": 41.2400016784668
+        },
+        {
+            "ticker": "NCH2.DE",
+            "price": 7.099999904632568
+        },
+        {
+            "ticker": "AOF.DE",
+            "price": 83.69999694824219
+        },
+        {
+            "ticker": "KTN.DE",
+            "price": 18.229999542236328
+        },
+        {
+            "ticker": "KCO.DE",
+            "price": "N/A"
+        },
+        {
+            "ticker": "SMHN.DE",
+            "price": 43.29999923706055
+        },
+        {
+            "ticker": "HBH.DE",
+            "price": 91.69999694824219
+        },
+        {
+            "ticker": "WAC.DE",
+            "price": 19.520000457763672
+        },
+        {
+            "ticker": "PFV.DE",
+            "price": 164.1999969482422
+        },
+        {
+            "ticker": "ACT.DE",
+            "price": 143.60000610351562
+        },
+        {
+            "ticker": "HHFA.DE",
+            "price": 21.600000381469727
+        },
+        {
+            "ticker": "YSN.DE",
+            "price": 190.39999389648438
+        },
+        {
+            "ticker": "COP.DE",
+            "price": "N/A"
+        },
+        {
+            "ticker": "TNIE.DE",
+            "price": 13.640000343322754
+        },
+        {
+            "ticker": "KSB3.DE",
+            "price": 821.0
+        },
+        {
+            "ticker": "RDC.DE",
+            "price": 64.30000305175781
+        },
+        {
+            "ticker": "HBM.DE",
+            "price": "N/A"
+        },
+        {
+            "ticker": "DEZ.DE",
+            "price": 8.295000076293945
+        },
+        {
+            "ticker": "SAX.DE",
+            "price": 38.880001068115234
+        },
+        {
+            "ticker": "DRW8.DE",
+            "price": 89.5999984741211
+        },
+        {
+            "ticker": "CEC.DE",
+            "price": 4.630000114440918
+        },
+        {
+            "ticker": "GBF.DE",
+            "price": 58.5
+        },
+        {
+            "ticker": "S92.DE",
+            "price": 47.52000045776367
+        },
+        {
+            "ticker": "SZU.DE",
+            "price": 10.65999984741211
+        },
+        {
+            "ticker": "KWS.DE",
+            "price": 64.4000015258789
+        },
+        {
+            "ticker": "AFX.DE",
+            "price": 32.060001373291016
+        },
+        {
+            "ticker": "FNTN.DE",
+            "price": 25.260000228881836
+        },
+        {
+            "ticker": "SDF.DE",
+            "price": 12.300000190734863
+        },
+        {
+            "ticker": "ELG.DE",
+            "price": 108.19999694824219
+        },
+        {
+            "ticker": "BOSS.DE",
+            "price": 38.099998474121094
+        },
+        {
+            "ticker": "WAF.DE",
+            "price": 50.099998474121094
+        },
+        {
+            "ticker": "SHA0.DE",
+            "price": 5.210000038146973
+        },
+        {
+            "ticker": "FRA.DE",
+            "price": 66.4000015258789
+        },
+        {
+            "ticker": "TKMS.DE",
+            "price": 78.19999694824219
+        },
+        {
+            "ticker": "UTDI.DE",
+            "price": 25.360000610351562
+        },
+        {
+            "ticker": "WCH.DE",
+            "price": 76.3499984741211
+        },
+        {
+            "ticker": "IOS.DE",
+            "price": 34.86000061035156
+        },
+        {
+            "ticker": "BC8.DE",
+            "price": 33.84000015258789
+        },
+        {
+            "ticker": "1U1.DE",
+            "price": 25.700000762939453
+        },
+        {
+            "ticker": "AIXA.DE",
+            "price": 26.889999389648438
+        },
+        {
+            "ticker": "SPG.DE",
+            "price": 23.100000381469727
+        },
+        {
+            "ticker": "AG1.DE",
+            "price": 15.710000038146973
+        },
+        {
+            "ticker": "1SXP.DE",
+            "price": 20.649999618530273
+        },
+        {
+            "ticker": "R3NK.DE",
+            "price": 35.029998779296875
+        },
+        {
+            "ticker": "OHB.DE",
+            "price": 196.8000030517578
+        },
+        {
+            "ticker": "AMV0.DE",
+            "price": 30.549999237060547
+        },
+        {
+            "ticker": "TUI1.DE",
+            "price": 6.840000152587891
+        },
+        {
+            "ticker": "OBCK.DE",
+            "price": 38.79999923706055
+        },
+        {
+            "ticker": "PUM.DE",
+            "price": 23.290000915527344
+        },
+        {
+            "ticker": "KRN.DE",
+            "price": 104.5999984741211
+        },
+        {
+            "ticker": "FIE.DE",
+            "price": 43.79999923706055
+        },
+        {
+            "ticker": "SIX2.DE",
+            "price": 76.3499984741211
+        },
+        {
+            "ticker": "SZG.DE",
+            "price": 44.0
+        },
+        {
+            "ticker": "APTD.L",
+            "price": 196.0
+        },
+        {
+            "ticker": "BKS.L",
+            "price": 180.0
+        },
+        {
+            "ticker": "HSW.L",
+            "price": 87.0
+        },
+        {
+            "ticker": "LIKE.L",
+            "price": 45.0
+        },
+        {
+            "ticker": "MACF.L",
+            "price": 79.80000305175781
+        },
+        {
+            "ticker": "PHAR.L",
+            "price": 27.799999237060547
+        },
+        {
+            "ticker": "CGS.L",
+            "price": 283.0
+        },
+        {
+            "ticker": "SHI.L",
+            "price": 8.899999618530273
+        },
+        {
+            "ticker": "MOTR.L",
+            "price": 140.0
+        },
+        {
+            "ticker": "SFR.L",
+            "price": 43.599998474121094
+        },
+        {
+            "ticker": "TRI.L",
+            "price": 70.0
+        },
+        {
+            "ticker": "XAR.L",
+            "price": 148.5
+        },
+        {
+            "ticker": "FDM.L",
+            "price": 122.5999984741211
+        },
+        {
+            "ticker": "IES.L",
+            "price": 9.600000381469727
+        },
+        {
+            "ticker": "QTX.L",
+            "price": 200.0
+        },
+        {
+            "ticker": "HPOW.L",
+            "price": 7.409999847412109
+        },
+        {
+            "ticker": "ACSO.L",
+            "price": 358.5
+        },
+        {
+            "ticker": "EKF.L",
+            "price": 23.200000762939453
+        },
+        {
+            "ticker": "AURR.L",
+            "price": 122.5
+        },
+        {
+            "ticker": "RWA.L",
+            "price": 134.0
+        },
+        {
+            "ticker": "SPEC.L",
+            "price": 83.5
+        },
+        {
+            "ticker": "MPAC.L",
+            "price": 297.5
+        },
+        {
+            "ticker": "VID.L",
+            "price": 191.5
+        },
+        {
+            "ticker": "GTLY.L",
+            "price": 70.5
+        },
+        {
+            "ticker": "DOTD.L",
+            "price": 55.20000076293945
+        },
+        {
+            "ticker": "PRE.L",
+            "price": 33.599998474121094
+        },
+        {
+            "ticker": "W7L.L",
+            "price": 162.0
+        },
+        {
+            "ticker": "BRCK.L",
+            "price": 35.599998474121094
+        },
+        {
+            "ticker": "CRST.L",
+            "price": 44.349998474121094
+        },
+        {
+            "ticker": "AOM.L",
+            "price": 86.0
+        },
+        {
+            "ticker": "RCH.L",
+            "price": 47.099998474121094
+        },
+        {
+            "ticker": "EYE.L",
+            "price": 482.5
+        },
+        {
+            "ticker": "SAA.L",
+            "price": 117.5
+        },
+        {
+            "ticker": "AXS.L",
+            "price": 55.0
+        },
+        {
+            "ticker": "CAM.L",
+            "price": 5500.0
+        },
+        {
+            "ticker": "KGH.L",
+            "price": 165.0
+        },
+        {
+            "ticker": "TUNE.L",
+            "price": 245.0
+        },
+        {
+            "ticker": "MCG.L",
+            "price": 44.47999954223633
+        },
+        {
+            "ticker": "ECEL.L",
+            "price": 147.0
+        },
+        {
+            "ticker": "SUP.L",
+            "price": 125.0
+        },
+        {
+            "ticker": "CCP.L",
+            "price": 192.5
+        },
+        {
+            "ticker": "GLE.L",
+            "price": 252.0
+        },
+        {
+            "ticker": "SAV.L",
+            "price": 3.799999952316284
+        },
+        {
+            "ticker": "SYNT.L",
+            "price": 111.80000305175781
+        },
+        {
+            "ticker": "MUL.L",
+            "price": 197.0
+        },
+        {
+            "ticker": "SML.L",
+            "price": 4.699999809265137
+        },
+        {
+            "ticker": "KMR.L",
+            "price": 284.0
+        },
+        {
+            "ticker": "SNWS.L",
+            "price": 69.19999694824219
+        },
+        {
+            "ticker": "BTG.L",
+            "price": 113.5
+        },
+        {
+            "ticker": "FNTL.L",
+            "price": 168.0
+        },
+        {
+            "ticker": "SRB.L",
+            "price": 163.0
+        },
+        {
+            "ticker": "SRAD.L",
+            "price": 120.0
+        },
+        {
+            "ticker": "MIDW.L",
+            "price": 140.0
+        },
+        {
+            "ticker": "BOOT.L",
+            "price": 121.0
+        },
+        {
+            "ticker": "VP..L",
+            "price": "N/A"
+        },
+        {
+            "ticker": "KP2.L",
+            "price": 3.299999952316284
+        },
+        {
+            "ticker": "TSTL.L",
+            "price": 385.0
+        },
+        {
+            "ticker": "ABDP.L",
+            "price": 922.0
+        },
+        {
+            "ticker": "ELCO.L",
+            "price": 234.0
+        },
+        {
+            "ticker": "CER.L",
+            "price": 840.0
+        },
+        {
+            "ticker": "SRT.L",
+            "price": 68.5
+        },
+        {
+            "ticker": "NET.L",
+            "price": 135.0
+        },
+        {
+            "ticker": "FDEV.L",
+            "price": 548.0
+        },
+        {
+            "ticker": "FSJ.L",
+            "price": 401.0
+        },
+        {
+            "ticker": "TRB.L",
+            "price": 101.5
+        },
+        {
+            "ticker": "CNC.L",
+            "price": 280.0
+        },
+        {
+            "ticker": "LTHM.L",
+            "price": 1110.0
+        },
+        {
+            "ticker": "KEYS.L",
+            "price": 797.0
+        },
+        {
+            "ticker": "SAG.L",
+            "price": 547.0
+        },
+        {
+            "ticker": "ASY.L",
+            "price": 515.0
+        },
+        {
+            "ticker": "JDG.L",
+            "price": 3600.0
+        },
+        {
+            "ticker": "NCC.L",
+            "price": 152.1999969482422
+        },
+        {
+            "ticker": "ADVT.L",
+            "price": 165.0
+        },
+        {
+            "ticker": "DIA.L",
+            "price": 604.0
+        },
+        {
+            "ticker": "ELIX.L",
+            "price": 461.0
+        },
+        {
+            "ticker": "OTB.L",
+            "price": 151.0
+        },
+        {
+            "ticker": "WIL.L",
+            "price": 265.0
+        },
+        {
+            "ticker": "VIC.L",
+            "price": 77.69999694824219
+        },
+        {
+            "ticker": "MSI.L",
+            "price": 1585.0
+        },
+        {
+            "ticker": "VTU.L",
+            "price": 95.0
+        },
+        {
+            "ticker": "HSP.L",
+            "price": 904.0
+        },
+        {
+            "ticker": "BIG.L",
+            "price": 76.4000015258789
+        },
+        {
+            "ticker": "EEE.L",
+            "price": 0.2840000092983246
+        },
+        {
+            "ticker": "AVG.L",
+            "price": 760.0
+        },
+        {
+            "ticker": "CARD.L",
+            "price": 81.4000015258789
+        },
+        {
+            "ticker": "CAML.L",
+            "price": 112.5999984741211
+        },
+        {
+            "ticker": "SWC.L",
+            "price": 32.0
+        },
+        {
+            "ticker": "GMET.L",
+            "price": 57.79999923706055
+        },
+        {
+            "ticker": "ALTN.L",
+            "price": 730.0
+        },
+        {
+            "ticker": "CPI.L",
+            "price": 53.0
+        },
+        {
+            "ticker": "NXR.L",
+            "price": 292.0
+        },
+        {
+            "ticker": "KIST.L",
+            "price": 242.5
+        },
+        {
+            "ticker": "OPT.L",
+            "price": 235.0
+        },
+        {
+            "ticker": "NIOX.L",
+            "price": 59.0
+        },
+        {
+            "ticker": "SFOR.L",
+            "price": 36.0
+        },
+        {
+            "ticker": "FRAN.L",
+            "price": 156.5
+        },
+        {
+            "ticker": "AGY.L",
+            "price": 1.2000000476837158
+        },
+        {
+            "ticker": "TFW.L",
+            "price": 245.0
+        },
+        {
+            "ticker": "FRP.L",
+            "price": 120.0
+        },
+        {
+            "ticker": "WVIA.L",
+            "price": 290.0
+        },
+        {
+            "ticker": "MARS.L",
+            "price": 48.45000076293945
+        },
+        {
+            "ticker": "THG.L",
+            "price": 38.20000076293945
+        },
+        {
+            "ticker": "DATA.L",
+            "price": 60.099998474121094
+        },
+        {
+            "ticker": "PRV.L",
+            "price": 826.0
+        },
+        {
+            "ticker": "BOWL.L",
+            "price": 295.0
+        },
+        {
+            "ticker": "RST.L",
+            "price": 295.0
+        },
+        {
+            "ticker": "MEGP.L",
+            "price": 102.80000305175781
+        },
+        {
+            "ticker": "LSC.L",
+            "price": 3600.0
+        },
+        {
+            "ticker": "WIX.L",
+            "price": 235.5
+        },
+        {
+            "ticker": "MSLH.L",
+            "price": 168.8000030517578
+        },
+        {
+            "ticker": "AT..L",
+            "price": "N/A"
+        },
+        {
+            "ticker": "ALFA.L",
+            "price": 169.39999389648438
+        },
+        {
+            "ticker": "YNGN.L",
+            "price": 788.0
+        },
+        {
+            "ticker": "YNGA.L",
+            "price": 1032.0
+        },
+        {
+            "ticker": "MTL.L",
+            "price": 13.149999618530273
+        },
+        {
+            "ticker": "AO.L",
+            "price": 85.9000015258789
+        },
+        {
+            "ticker": "JSG.L",
+            "price": 151.10000610351562
+        },
+        {
+            "ticker": "RWS.L",
+            "price": 132.39999389648438
+        },
+        {
+            "ticker": "JHD.L",
+            "price": 123.19999694824219
+        },
+        {
+            "ticker": "GFM.L",
+            "price": 292.0
+        },
+        {
+            "ticker": "TBTG.L",
+            "price": 483.0
+        },
+        {
+            "ticker": "PINE.L",
+            "price": "N/A"
+        },
+        {
+            "ticker": "BMY.L",
+            "price": 629.0
+        },
+        {
+            "ticker": "ATG.L",
+            "price": 456.20001220703125
+        },
+        {
+            "ticker": "AVON.L",
+            "price": 2220.0
+        },
+        {
+            "ticker": "FTC.L",
+            "price": 225.0
+        },
+        {
+            "ticker": "CHRT.L",
+            "price": 1310.0
+        },
+        {
+            "ticker": "ASC.L",
+            "price": 471.5
+        },
+        {
+            "ticker": "TUNG.L",
+            "price": "N/A"
+        },
+        {
+            "ticker": "HFD.L",
+            "price": 276.0
+        },
+        {
+            "ticker": "PPH.L",
+            "price": 1586.0
+        },
+        {
+            "ticker": "BAG.L",
+            "price": 596.0
+        },
+        {
+            "ticker": "AMS.L",
+            "price": 282.5
+        },
+        {
+            "ticker": "IQE.L",
+            "price": 27.75
+        },
+        {
+            "ticker": "EVPL.L",
+            "price": 408.0
+        },
+        {
+            "ticker": "HFG.L",
+            "price": 722.5
+        },
+        {
+            "ticker": "ITM.L",
+            "price": 65.9000015258789
+        },
+        {
+            "ticker": "GFRD.L",
+            "price": 672.0
+        },
+        {
+            "ticker": "PAGE.L",
+            "price": 242.0
+        },
+        {
+            "ticker": "APN.L",
+            "price": 297.5
+        },
+        {
+            "ticker": "COST.L",
+            "price": 236.5
+        },
+        {
+            "ticker": "TRN.L",
+            "price": 191.8000030517578
+        },
+        {
+            "ticker": "DOCS.L",
+            "price": 49.099998474121094
+        },
+        {
+            "ticker": "CVSG.L",
+            "price": 1382.0
+        },
+        {
+            "ticker": "VTY.L",
+            "price": 206.39999389648438
+        },
+        {
+            "ticker": "AEP.L",
+            "price": 146.8000030517578
+        },
+        {
+            "ticker": "RNWH.L",
+            "price": 970.0
+        },
+        {
+            "ticker": "MGAM.L",
+            "price": 259.5
+        },
+        {
+            "ticker": "GEN.L",
+            "price": 268.20001220703125
+        },
+        {
+            "ticker": "PRN.L",
+            "price": 391.5
+        },
+        {
+            "ticker": "DOM.L",
+            "price": 217.0
+        },
+        {
+            "ticker": "VCT.L",
+            "price": 900.0
+        },
+        {
+            "ticker": "DSCV.L",
+            "price": 763.0
+        },
+        {
+            "ticker": "MOON.L",
+            "price": 266.6000061035156
+        },
+        {
+            "ticker": "TRST.L",
+            "price": 262.0
+        },
+        {
+            "ticker": "CWR.L",
+            "price": 244.39999389648438
+        },
+        {
+            "ticker": "JDW.L",
+            "price": 1006.0
+        },
+        {
+            "ticker": "SPI.L",
+            "price": 249.5
+        },
+        {
+            "ticker": "GAMA.L",
+            "price": 1109.0
+        },
+        {
+            "ticker": "FGP.L",
+            "price": 231.0
+        },
+        {
+            "ticker": "PETS.L",
+            "price": 278.20001220703125
+        },
+        {
+            "ticker": "FEVR.L",
+            "price": 948.5
+        },
+        {
+            "ticker": "MONY.L",
+            "price": 207.39999389648438
+        },
+        {
+            "ticker": "JUP.L",
+            "price": 179.8000030517578
+        },
+        {
+            "ticker": "BREE.L",
+            "price": 320.20001220703125
+        },
+        {
+            "ticker": "MPE.L",
+            "price": 1854.0
+        },
+        {
+            "ticker": "ZIG.L",
+            "price": 444.0
+        },
+        {
+            "ticker": "BYIT.L",
+            "price": 414.79998779296875
+        },
+        {
+            "ticker": "ELM.L",
+            "price": 192.0
+        },
+        {
+            "ticker": "GDWN.L",
+            "price": 14720.0
+        },
+        {
+            "ticker": "HAS.L",
+            "price": 80.0
+        },
+        {
+            "ticker": "QQ.L",
+            "price": 484.3999938964844
+        },
+        {
+            "ticker": "TATE.L",
+            "price": 558.0
+        },
+        {
+            "ticker": "SRP.L",
+            "price": 271.20001220703125
+        },
+        {
+            "ticker": "BWY.L",
+            "price": 2266.0
+        },
+        {
+            "ticker": "KLR.L",
+            "price": 2766.0
+        },
+        {
+            "ticker": "HTWS.L",
+            "price": 230.60000610351562
+        },
+        {
+            "ticker": "ONT.L",
+            "price": 196.60000610351562
+        },
+        {
+            "ticker": "CAN.L",
+            "price": 231.39999389648438
+        },
+        {
+            "ticker": "OCDO.L",
+            "price": 304.3999938964844
+        },
+        {
+            "ticker": "MGNS.L",
+            "price": 4330.0
+        },
+        {
+            "ticker": "GRG.L",
+            "price": 2222.0
+        },
+        {
+            "ticker": "GNC.L",
+            "price": 297.20001220703125
+        },
+        {
+            "ticker": "GFTU.L",
+            "price": 1032.0
+        },
+        {
+            "ticker": "MAB.L",
+            "price": 297.5
+        },
+        {
+            "ticker": "PFD.L",
+            "price": 191.6999969482422
+        },
+        {
+            "ticker": "OXIG.L",
+            "price": 2500.0
+        },
+        {
+            "ticker": "ATYM.L",
+            "price": 725.5
+        },
+        {
+            "ticker": "DNLM.L",
+            "price": 884.5
+        },
+        {
+            "ticker": "CURY.L",
+            "price": 140.0
+        },
+        {
+            "ticker": "COA.L",
+            "price": 74.25
+        },
+        {
+            "ticker": "BOY.L",
+            "price": 921.0
+        },
+        {
+            "ticker": "CKN.L",
+            "price": 4532.0
+        },
+        {
+            "ticker": "CHG.L",
+            "price": 568.0
+        },
+        {
+            "ticker": "RHIM.L",
+            "price": 2560.0
+        },
+        {
+            "ticker": "SRC.L",
+            "price": 121.69999694824219
+        },
+        {
+            "ticker": "CRN.L",
+            "price": 243.0
+        },
+        {
+            "ticker": "SSPG.L",
+            "price": 183.39999389648438
+        },
+        {
+            "ticker": "KNOS.L",
+            "price": 1024.0
+        },
+        {
+            "ticker": "RPI.L",
+            "price": 479.20001220703125
+        },
+        {
+            "ticker": "KIE.L",
+            "price": 309.79998779296875
+        },
+        {
+            "ticker": "FAN.L",
+            "price": 641.0
+        },
+        {
+            "ticker": "TPK.L",
+            "price": 638.5
+        },
+        {
+            "ticker": "FOUR.L",
+            "price": 4022.0
+        },
+        {
+            "ticker": "SNR.L",
+            "price": "N/A"
+        },
+        {
+            "ticker": "VLX.L",
+            "price": 477.0
+        },
+        {
+            "ticker": "VSVS.L",
+            "price": 489.3999938964844
+        },
+        {
+            "ticker": "REG1V.HE",
+            "price": 9.800000190734863
+        },
+        {
+            "ticker": "ENENTO.HE",
+            "price": 15.5
+        },
+        {
+            "ticker": "LINDEX.HE",
+            "price": 2.5250000953674316
+        },
+        {
+            "ticker": "KREATE.HE",
+            "price": 25.5
+        },
+        {
+            "ticker": "VIK1V.HE",
+            "price": 18.899999618530273
+        },
+        {
+            "ticker": "AUROORA.HE",
+            "price": 9.899999618530273
+        },
+        {
+            "ticker": "REMEDY.HE",
+            "price": 15.800000190734863
+        },
+        {
+            "ticker": "ANORA.HE",
+            "price": 4.860000133514404
+        },
+        {
+            "ticker": "FSECURE.HE",
+            "price": 1.399999976158142
+        },
+        {
+            "ticker": "LASTIK.HE",
+            "price": 6.5
+        },
+        {
+            "ticker": "ICP1V.HE",
+            "price": 9.670000076293945
+        },
+        {
+            "ticker": "RELAIS.HE",
+            "price": 11.149999618530273
+        },
+        {
+            "ticker": "PIHLIS.HE",
+            "price": 8.430000305175781
+        },
+        {
+            "ticker": "ASPO.HE",
+            "price": 6.300000190734863
+        },
+        {
+            "ticker": "CANATU.HE",
+            "price": 3.494999885559082
+        },
+        {
+            "ticker": "KOSKI.HE",
+            "price": 7.179999828338623
+        },
+        {
+            "ticker": "ETTE.HE",
+            "price": 7.039999961853027
+        },
+        {
+            "ticker": "GOFORE.HE",
+            "price": 12.319999694824219
+        },
+        {
+            "ticker": "REAKTOR.HE",
+            "price": 6.670000076293945
+        },
+        {
+            "ticker": "SRV1V.HE",
+            "price": 7.579999923706055
+        },
+        {
+            "ticker": "VERK.HE",
+            "price": 3.3399999141693115
+        },
+        {
+            "ticker": "SAVOX.HE",
+            "price": 8.600000381469727
+        },
+        {
+            "ticker": "NOHO.HE",
+            "price": 7.119999885559082
+        },
+        {
+            "ticker": "ORIOLA.HE",
+            "price": 0.6930000185966492
+        },
+        {
+            "ticker": "SFOODS.HE",
+            "price": 5.400000095367432
+        },
+        {
+            "ticker": "HKFOODS.HE",
+            "price": 1.9079999923706055
+        },
+        {
+            "ticker": "TEM1V.HE",
+            "price": 5.900000095367432
+        },
+        {
+            "ticker": "KSL.HE",
+            "price": 8.279999732971191
+        },
+        {
+            "ticker": "DIGIA.HE",
+            "price": 5.019999980926514
+        },
+        {
+            "ticker": "ADMCM.HE",
+            "price": 29.399999618530273
+        },
+        {
+            "ticker": "EXEL.HE",
+            "price": 13.949999809265137
+        },
+        {
+            "ticker": "SSH1V.HE",
+            "price": 1.8799999952316284
+        },
+        {
+            "ticker": "SUY1V.HE",
+            "price": 0.44999998807907104
+        },
+        {
+            "ticker": "DETEC.HE",
+            "price": 7.360000133514404
+        },
+        {
+            "ticker": "IQMX.HE",
+            "price": 7.090000152587891
+        },
+        {
+            "ticker": "KALMAR.HE",
+            "price": 35.2400016784668
+        },
+        {
+            "ticker": "VAIAS.HE",
+            "price": 60.900001525878906
+        },
+        {
+            "ticker": "SANOMA.HE",
+            "price": 8.970000267028809
+        },
+        {
+            "ticker": "PUUILO.HE",
+            "price": 18.18000030517578
+        },
+        {
+            "ticker": "BITTI.HE",
+            "price": 35.400001525878906
+        },
+        {
+            "ticker": "GRK.HE",
+            "price": 18.6200008392334
+        },
+        {
+            "ticker": "ALMA.HE",
+            "price": 13.899999618530273
+        },
+        {
+            "ticker": "YIT.HE",
+            "price": 3.5399999618530273
+        },
+        {
+            "ticker": "FSKRS.HE",
+            "price": 13.420000076293945
+        },
+        {
+            "ticker": "TTALO.HE",
+            "price": 6.03000020980835
+        },
+        {
+            "ticker": "FIA1S.HE",
+            "price": 5.15500020980835
+        },
+        {
+            "ticker": "SCANFL.HE",
+            "price": 12.279999732971191
+        },
+        {
+            "ticker": "HARVIA.HE",
+            "price": 39.849998474121094
+        },
+        {
+            "ticker": "OLVAS.HE",
+            "price": 29.100000381469727
+        },
+        {
+            "ticker": "PON1V.HE",
+            "price": 18.799999237060547
+        },
+        {
+            "ticker": "KEMPOWR.HE",
+            "price": 5.340000152587891
+        },
+        {
+            "ticker": "FRAMERY.HE",
+            "price": 7.989999771118164
+        },
+        {
+            "ticker": "MUSTI.HE",
+            "price": 14.899999618530273
+        },
+        {
+            "ticker": "ATRAV.HE",
+            "price": 15.979999542236328
+        },
+        {
+            "ticker": "TOKMAN.HE",
+            "price": 6.369999885559082
+        },
+        {
+            "ticker": "MEKKO.HE",
+            "price": 9.390000343322754
+        },
+        {
+            "ticker": "PAMPALO.HE",
+            "price": 7.329999923706055
+        },
+        {
+            "ticker": "RAIVV.HE",
+            "price": 2.200000047683716
+        },
+        {
+            "ticker": "CASH.MC",
+            "price": 0.6499999761581421
+        },
+        {
+            "ticker": "CBAV.MC",
+            "price": 56.79999923706055
+        },
+        {
+            "ticker": "TSK.MC",
+            "price": 5.525000095367432
+        },
+        {
+            "ticker": "ENC.MC",
+            "price": 2.257999897003174
+        },
+        {
+            "ticker": "EBROM.MC",
+            "price": 9.100000381469727
+        },
+        {
+            "ticker": "EDR.MC",
+            "price": 4.34499979019165
+        },
+        {
+            "ticker": "OHLA.MC",
+            "price": 0.3375999927520752
+        },
+        {
+            "ticker": "GSJ.MC",
+            "price": 7.03000020980835
+        },
+        {
+            "ticker": "MCM.MC",
+            "price": 9.859999656677246
+        },
+        {
+            "ticker": "NXT.MC",
+            "price": 0.9240000247955322
+        },
+        {
+            "ticker": "AMP.MC",
+            "price": 4.585000038146973
+        },
+        {
+            "ticker": "ALC.MC",
+            "price": 6.050000190734863
+        },
+        {
+            "ticker": "DOM.MC",
+            "price": 2.7300000190734863
+        },
+        {
+            "ticker": "CLR.MC",
+            "price": 19.350000381469727
+        },
+        {
+            "ticker": "TUB.MC",
+            "price": 2.884999990463257
+        },
+        {
+            "ticker": "PRS.MC",
+            "price": 2.059999942779541
+        },
+        {
+            "ticker": "TLGO.MC",
+            "price": 2.2899999618530273
+        },
+        {
+            "ticker": "IZER.MC",
+            "price": 7.019999980926514
+        },
+        {
+            "ticker": "SOL.MC",
+            "price": 0.4480000138282776
+        },
+        {
+            "ticker": "AZK.MC",
+            "price": 10.350000381469727
+        },
+        {
+            "ticker": "NAT.MC",
+            "price": 0.5649999976158142
+        },
+        {
+            "ticker": "SEC.MC",
+            "price": 30.399999618530273
+        },
+        {
+            "ticker": "PRM.MC",
+            "price": 12.399999618530273
+        },
+        {
+            "ticker": "ATRY.MC",
+            "price": 2.434999942779541
+        },
+        {
+            "ticker": "SQRL.MC",
+            "price": 1.899999976158142
+        },
+        {
+            "ticker": "ATSI.MC",
+            "price": 3.5
+        },
+        {
+            "ticker": "IBG.MC",
+            "price": 17.0
+        },
+        {
+            "ticker": "OLE.MC",
+            "price": 0.27399998903274536
+        },
+        {
+            "ticker": "NTH.MC",
+            "price": 2.069999933242798
+        },
+        {
+            "ticker": "AI.MC",
+            "price": 0.07769999653100967
+        },
+        {
+            "ticker": "GAM.MC",
+            "price": 1.3450000286102295
+        },
+        {
+            "ticker": "NEA.MC",
+            "price": 9.9399995803833
+        },
+        {
+            "ticker": "VYT.MC",
+            "price": 12.800000190734863
+        },
+        {
+            "ticker": "MDF.MC",
+            "price": 0.21050000190734863
+        },
+        {
+            "ticker": "AMEN.MC",
+            "price": 6.800000190734863
+        },
+        {
+            "ticker": "VOC.MC",
+            "price": 0.8140000104904175
+        },
+        {
+            "ticker": "FCC.MC",
+            "price": 10.84000015258789
+        },
+        {
+            "ticker": "CIRSA.MC",
+            "price": 19.040000915527344
+        },
+        {
+            "ticker": "CIE.MC",
+            "price": 27.200000762939453
+        },
+        {
+            "ticker": "EBRO.MC",
+            "price": 18.040000915527344
+        },
+        {
+            "ticker": "DIA.MC",
+            "price": 48.0
+        },
+        {
+            "ticker": "ENO.MC",
+            "price": 32.0
+        },
+        {
+            "ticker": "CAF.MC",
+            "price": 68.0
+        },
+        {
+            "ticker": "CMO.MC",
+            "price": 38.0
+        },
+        {
+            "ticker": "VIS.MC",
+            "price": 53.599998474121094
+        },
+        {
+            "ticker": "MEL.MC",
+            "price": 11.300000190734863
+        },
+        {
+            "ticker": "ART.MC",
+            "price": 27.299999237060547
+        },
+        {
+            "ticker": "DIGIS.MC",
+            "price": 6.045000076293945
+        },
+        {
+            "ticker": "HBX.MC",
+            "price": 6.400000095367432
+        },
+        {
+            "ticker": "GEST.MC",
+            "price": 3.009999990463257
+        },
+        {
+            "ticker": "IMC.MC",
+            "price": 3.7100000381469727
+        },
+        {
+            "ticker": "HOME.MC",
+            "price": 19.8799991607666
+        },
+        {
+            "ticker": "PSG.MC",
+            "price": 3.1600000858306885
+        },
+        {
+            "ticker": "A3M.MC",
+            "price": 6.199999809265137
+        },
+        {
+            "ticker": "VOW.OL",
+            "price": 2.119999885559082
+        },
+        {
+            "ticker": "HKY.OL",
+            "price": 47.0
+        },
+        {
+            "ticker": "KLDVK.OL",
+            "price": 1.909999966621399
+        },
+        {
+            "ticker": "HDLY.OL",
+            "price": 10.649999618530273
+        },
+        {
+            "ticker": "OTOVO.OL",
+            "price": 7.619999885559082
+        },
+        {
+            "ticker": "WEST.OL",
+            "price": 24.5
+        },
+        {
+            "ticker": "STECH.OL",
+            "price": 95.0
+        },
+        {
+            "ticker": "SCANA.OL",
+            "price": 1.399999976158142
+        },
+        {
+            "ticker": "BOR.OL",
+            "price": 15.949999809265137
+        },
+        {
+            "ticker": "KING.OL",
+            "price": 0.8349999785423279
+        },
+        {
+            "ticker": "GENT.OL",
+            "price": 39.599998474121094
+        },
+        {
+            "ticker": "INIFY.OL",
+            "price": 5.0
+        },
+        {
+            "ticker": "STST.OL",
+            "price": 43.0
+        },
+        {
+            "ticker": "ENSU.OL",
+            "price": 0.4059999883174896
+        },
+        {
+            "ticker": "LOKO.OL",
+            "price": 0.4699999988079071
+        },
+        {
+            "ticker": "GOD.OL",
+            "price": 14.300000190734863
+        },
+        {
+            "ticker": "ITERA.OL",
+            "price": 5.800000190734863
+        },
+        {
+            "ticker": "ININ.OL",
+            "price": 3.1600000858306885
+        },
+        {
+            "ticker": "STRO.OL",
+            "price": 10.899999618530273
+        },
+        {
+            "ticker": "IDEX.OL",
+            "price": 11.149999618530273
+        },
+        {
+            "ticker": "CONTX.OL",
+            "price": 4.300000190734863
+        },
+        {
+            "ticker": "ELABS.OL",
+            "price": 1.6299999952316284
+        },
+        {
+            "ticker": "HAV.OL",
+            "price": 9.460000038146973
+        },
+        {
+            "ticker": "AKOBO.OL",
+            "price": 1.625
+        },
+        {
+            "ticker": "ARR.OL",
+            "price": 4.300000190734863
+        },
+        {
+            "ticker": "5PG.OL",
+            "price": 0.5799999833106995
+        },
+        {
+            "ticker": "WSTEP.OL",
+            "price": 11.149999618530273
+        },
+        {
+            "ticker": "CAPSL.OL",
+            "price": 4.099999904632568
+        },
+        {
+            "ticker": "CYVIZ.OL",
+            "price": 13.050000190734863
+        },
+        {
+            "ticker": "BCS.OL",
+            "price": 5.800000190734863
+        },
+        {
+            "ticker": "MVW.OL",
+            "price": 7.300000190734863
+        },
+        {
+            "ticker": "EQVA.OL",
+            "price": 2.3399999141693115
+        },
+        {
+            "ticker": "PROXI.OL",
+            "price": 0.033799998462200165
+        },
+        {
+            "ticker": "LIFE.OL",
+            "price": 0.32199999690055847
+        },
+        {
+            "ticker": "CAVEN.OL",
+            "price": 4.300000190734863
+        },
+        {
+            "ticker": "NTG.OL",
+            "price": 2.0
+        },
+        {
+            "ticker": "HPUR.OL",
+            "price": 3.1500000953674316
+        },
+        {
+            "ticker": "NOM.OL",
+            "price": 0.32499998807907104
+        },
+        {
+            "ticker": "DSRT.OL",
+            "price": 0.20800000429153442
+        },
+        {
+            "ticker": "OCEAN.OL",
+            "price": 0.5400000214576721
+        },
+        {
+            "ticker": "2020.OL",
+            "price": 34.2400016784668
+        },
+        {
+            "ticker": "TECH.OL",
+            "price": 1.399999976158142
+        },
+        {
+            "ticker": "OBSRV.OL",
+            "price": 0.7400000095367432
         }
     ]
 }
